@@ -3,6 +3,7 @@ title = "Scroll"
 
 sub_ecosystems = [
   "Celer Network cBridge",
+  "ISSUAA",
   "Kodadot",
   "LayerZero",
   "Pimlico",
@@ -1530,6 +1531,9 @@ url = "https://github.com/oxor-io/zk-layer-vote"
 [[repo]]
 url = "https://github.com/ozeliger/eta"
 missing = true
+
+[[repo]]
+url = "https://github.com/OZNSN/coin-fountain"
 
 [[repo]]
 url = "https://github.com/p00temkin/forestfish"

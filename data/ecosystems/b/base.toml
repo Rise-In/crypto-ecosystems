@@ -8,7 +8,9 @@ sub_ecosystems = [
   "Balancer",
   "Battledogs",
   "Chainlink",
+  "ChainMixer",
   "DIA",
+  "ISSUAA",
   "Moonwell",
   "OpenSea",
   "Pimlico",
@@ -580,6 +582,9 @@ url = "https://github.com/nftpoolparty/monorepo"
 
 [[repo]]
 url = "https://github.com/nicolaslima321/base-smart-contract"
+
+[[repo]]
+url = "https://github.com/OZNSN/coin-fountain"
 
 [[repo]]
 url = "https://github.com/p00temkin/forestfish"

@@ -31,7 +31,6 @@ sub_ecosystems = [
   "Cora Protocol",
   "CureDAO",
   "Curve",
-  "Curve Labs",
   "DeFiHelper",
   "Deth",
   "Distributed Lab",
@@ -9268,6 +9267,9 @@ missing = true
 
 [[repo]]
 url = "https://github.com/ozmago/JPEGX"
+
+[[repo]]
+url = "https://github.com/OZNSN/coin-fountain"
 
 [[repo]]
 url = "https://github.com/p00temkin/forestfish"
