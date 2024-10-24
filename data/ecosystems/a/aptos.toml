@@ -6,6 +6,7 @@ sub_ecosystems = [
   "AnimeSwap",
   "Apscan",
   "APT ID",
+  "AptCash",
   "Aptin Finance",
   "Aptin Labs",
   "AptinLabs",
@@ -17,6 +18,7 @@ sub_ecosystems = [
   "AUX Exchange",
   "Avex Defy",
   "Baptswap",
+  "Betos",
   "BlockEden.xyz",
   "BlockPi Network",
   "Bware Labs",
@@ -25,11 +27,13 @@ sub_ecosystems = [
   "ComingChat",
   "Deploy DAO",
   "Ditto Finance",
+  "Doubt-It",
   "Econia Labs",
   "Enchanter Finance",
   "Ferum",
   "Fewcha",
   "Fliptos",
+  "Gigster",
   "Hashkey DID",
   "HippoSpace (HippoSwap)",
   "Koizumi",
@@ -84,6 +88,9 @@ github_organizations = [
 url = "https://github.com/04Akaps/Aptos_Move"
 
 [[repo]]
+url = "https://github.com/09odem/aptogotchi"
+
+[[repo]]
 url = "https://github.com/0LNetworkCommunity/aptos-core"
 
 [[repo]]
@@ -105,6 +112,9 @@ url = "https://github.com/0x5487/learning-move"
 url = "https://github.com/0x6368616e67/aptos-core"
 
 [[repo]]
+url = "https://github.com/0xabo/aptogotchi"
+
+[[repo]]
 url = "https://github.com/0xAli0/mina-aptos-oracle"
 
 [[repo]]
@@ -124,6 +134,9 @@ url = "https://github.com/0xAnto/HBDHelper"
 
 [[repo]]
 url = "https://github.com/0xAnto/kana-aggregator"
+
+[[repo]]
+url = "https://github.com/0xaptosj/aptos-full-stack-template"
 
 [[repo]]
 url = "https://github.com/0xaptosj/aptos-identity"
@@ -214,6 +227,9 @@ url = "https://github.com/0xjunha/apt-reward-script"
 
 [[repo]]
 url = "https://github.com/0xjunha/aptos-burnable-coin"
+
+[[repo]]
+url = "https://github.com/0xLSTx/multi_pool"
 
 [[repo]]
 url = "https://github.com/0xmetaschool/Building-on-Aptos-boilerplate"
@@ -309,7 +325,16 @@ url = "https://github.com/100x-fi/pyth-crosschain"
 url = "https://github.com/1040803788/aptos"
 
 [[repo]]
+url = "https://github.com/13579246801234/aptogotchi"
+
+[[repo]]
 url = "https://github.com/1500256797/hello_aptos"
+
+[[repo]]
+url = "https://github.com/1526fida/aptogotchi"
+
+[[repo]]
+url = "https://github.com/1tz3l/scripta-manent"
 
 [[repo]]
 url = "https://github.com/281066586/aptos-core"
@@ -319,6 +344,12 @@ url = "https://github.com/2BeBuilt/wdrive"
 
 [[repo]]
 url = "https://github.com/33-Labs/bayou-aptos"
+
+[[repo]]
+url = "https://github.com/3nirvana/aptogotchi"
+
+[[repo]]
+url = "https://github.com/44Storm/aptogotchi"
 
 [[repo]]
 url = "https://github.com/4mo4ever/MoveAptosLearn"
@@ -334,6 +365,9 @@ url = "https://github.com/89igor/pancakeswap"
 
 [[repo]]
 url = "https://github.com/8kanass/site"
+
+[[repo]]
+url = "https://github.com/90Hamzak/aptogotchi"
 
 [[repo]]
 url = "https://github.com/99Kies/Aptos-Move-Dapp"
@@ -366,7 +400,13 @@ url = "https://github.com/aadityaagour/decentralized-energy-trade"
 url = "https://github.com/aadityabanala/aptos-auction-main"
 
 [[repo]]
+url = "https://github.com/aadyajha/claimschain"
+
+[[repo]]
 url = "https://github.com/aagh90/aptoag"
+
+[[repo]]
+url = "https://github.com/aakshu13/project-1"
 
 [[repo]]
 url = "https://github.com/aaravm/fullaptos"
@@ -387,7 +427,19 @@ url = "https://github.com/aave/aptos-aave-v3"
 url = "https://github.com/abantunetwork/liquidswap"
 
 [[repo]]
+url = "https://github.com/abbas-husain2/aptos"
+
+[[repo]]
+url = "https://github.com/Abdulkerimabdo/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Abekiz/aptogotchi"
+
+[[repo]]
 url = "https://github.com/abelfinance/liquidswap-lp"
+
+[[repo]]
+url = "https://github.com/Abhay-kumar-01/aptos"
 
 [[repo]]
 url = "https://github.com/abhi3700/My_Learning-Move"
@@ -417,6 +469,9 @@ url = "https://github.com/abhishekanand0216/-abhishekanand0216-abhishekanand_new
 url = "https://github.com/AbhishekBh72/over-network-pt-2"
 
 [[repo]]
+url = "https://github.com/Abhishekjha3515/riseinap"
+
+[[repo]]
 url = "https://github.com/abikanku/abikag"
 
 [[repo]]
@@ -436,6 +491,9 @@ url = "https://github.com/Abuchtela/aptos-core"
 
 [[repo]]
 url = "https://github.com/Abuchtela/wallet-adapter-plugin-template"
+
+[[repo]]
+url = "https://github.com/abudubudai/aptogotchi"
 
 [[repo]]
 url = "https://github.com/AcalaNetwork/bodhi.js"
@@ -462,6 +520,9 @@ url = "https://github.com/AD-26/Aptos_bcoin"
 url = "https://github.com/Adarsh-Dhar/xsets"
 
 [[repo]]
+url = "https://github.com/AdarshSingh9540/credlegar"
+
+[[repo]]
 url = "https://github.com/Adedhoney/solana_functions"
 
 [[repo]]
@@ -480,13 +541,28 @@ url = "https://github.com/adetyaz/smartsurf"
 url = "https://github.com/adimov-eth/pancake"
 
 [[repo]]
+url = "https://github.com/adity369/aptos"
+
+[[repo]]
 url = "https://github.com/aditya-angadi-artemis/aptos_nft"
+
+[[repo]]
+url = "https://github.com/aditya-gg04/SkillNet"
 
 [[repo]]
 url = "https://github.com/Adityabhatt2309/pancake"
 
 [[repo]]
+url = "https://github.com/AdityaCubicles45/automa8x-production"
+
+[[repo]]
 url = "https://github.com/adityakaaltatva/Aptos_project_move"
+
+[[repo]]
+url = "https://github.com/Adityasingh2824/GenArtory"
+
+[[repo]]
+url = "https://github.com/adityasinha-15/Voting-System"
 
 [[repo]]
 url = "https://github.com/admin8013/admin8013.github.io"
@@ -504,16 +580,25 @@ url = "https://github.com/Adonis0129/EZFinance_frontend"
 url = "https://github.com/AdonisGithub/aptos_test"
 
 [[repo]]
+url = "https://github.com/Adramdhn/aptogotchi"
+
+[[repo]]
 url = "https://github.com/aecorrea/overmind"
 
 [[repo]]
 url = "https://github.com/AegisAurora/Aptos-Move-Projects"
 
 [[repo]]
+url = "https://github.com/aegisId/aegis-id-web"
+
+[[repo]]
 url = "https://github.com/aeither/aptos-starter"
 
 [[repo]]
 url = "https://github.com/aeither/livecut"
+
+[[repo]]
+url = "https://github.com/aeither/open-forge"
 
 [[repo]]
 url = "https://github.com/aelf-lu/blockchain-research"
@@ -525,7 +610,16 @@ url = "https://github.com/Aeons-Team/Aeons"
 url = "https://github.com/AeroXi/aptos-core"
 
 [[repo]]
+url = "https://github.com/aesthetic2811/crowd-funding-platform"
+
+[[repo]]
 url = "https://github.com/aftrmarket/vue-contract-test"
+
+[[repo]]
+url = "https://github.com/AFZAL607/PROJECT1"
+
+[[repo]]
+url = "https://github.com/agdex-io/agdex-intro"
 
 [[repo]]
 url = "https://github.com/agencyenterprise/montyhallpoker"
@@ -588,6 +682,9 @@ url = "https://github.com/airicyu/aptos-sample-client-wallet-transfer"
 url = "https://github.com/airicyu/solana-class"
 
 [[repo]]
+url = "https://github.com/Ajalefia/aptogotchi"
+
+[[repo]]
 url = "https://github.com/ajaythxkur/aptos-contracts"
 
 [[repo]]
@@ -606,10 +703,28 @@ url = "https://github.com/ajesuscode/aptos-wallet-selector-twcss"
 url = "https://github.com/ajselvan/AptosTransactions"
 
 [[repo]]
+url = "https://github.com/aka-Rakesh/Aptos_Token"
+
+[[repo]]
+url = "https://github.com/aka1garr/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Akagi201/aptos-scripts"
 
 [[repo]]
 url = "https://github.com/Akagi201/move-workshop"
+
+[[repo]]
+url = "https://github.com/AkankshaArora04/loyalty-point-system"
+
+[[repo]]
+url = "https://github.com/Akankshamishra0025/aptosproject"
+
+[[repo]]
+url = "https://github.com/Akashmahajan01/Build-in-aptos"
+
+[[repo]]
+url = "https://github.com/akdvinay/Aptos-Project"
 
 [[repo]]
 url = "https://github.com/AkhilSharma90/Aptos-Todo-Move"
@@ -645,10 +760,19 @@ url = "https://github.com/Aladeenb/simple-ticket"
 url = "https://github.com/Aladeenb/summarAIze"
 
 [[repo]]
+url = "https://github.com/aladin4tq/aptogotchi"
+
+[[repo]]
+url = "https://github.com/ALCOVE-LAB/about-alcove"
+
+[[repo]]
 url = "https://github.com/ALCOVE-LAB/aptos-dapp-demo"
 
 [[repo]]
 url = "https://github.com/ALCOVE-LAB/Move-Dapp"
+
+[[repo]]
+url = "https://github.com/AlejandroBecerraAcevedo/aptos-first-proyect-trains"
 
 [[repo]]
 url = "https://github.com/alessandrobernieri/aptos-tools"
@@ -666,6 +790,9 @@ url = "https://github.com/alex-varga14/aptos-core"
 url = "https://github.com/AlexeyAdoniev/xpjs"
 
 [[repo]]
+url = "https://github.com/alexlionel/aptogotchi"
+
+[[repo]]
 url = "https://github.com/alfar0x/aptos-accounts-checker"
 
 [[repo]]
@@ -675,10 +802,16 @@ url = "https://github.com/alfar0x/aptos-quest-4"
 url = "https://github.com/alfar0x/checker-aptos"
 
 [[repo]]
+url = "https://github.com/alfiyakhan01/aptos_project"
+
+[[repo]]
 url = "https://github.com/Alfred-Protocol/contracts"
 
 [[repo]]
 url = "https://github.com/AlgoAngel/wallet-test"
+
+[[repo]]
+url = "https://github.com/AlgorithmicMynd/hY"
 
 [[repo]]
 url = "https://github.com/Ali-Usama/village-builder-move"
@@ -690,7 +823,16 @@ url = "https://github.com/aliceho/Aptos-move-JamPass"
 url = "https://github.com/aliceho/AptosFellowshipProgram"
 
 [[repo]]
+url = "https://github.com/Alieeeyy/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Aligksu667/aptogotchi"
+
+[[repo]]
 url = "https://github.com/alipoudine/bulkwithdraw"
+
+[[repo]]
+url = "https://github.com/all-stackers/StreamAds"
 
 [[repo]]
 url = "https://github.com/alleycat1/pancake-frontend-develop-pro"
@@ -711,7 +853,13 @@ url = "https://github.com/alpaca-finance/DefiLlama-yield-server"
 url = "https://github.com/AlphaWoolfGame/interface"
 
 [[repo]]
+url = "https://github.com/altafaliansari/aptos-project"
+
+[[repo]]
 url = "https://github.com/altaga/Aptos-Vault"
+
+[[repo]]
+url = "https://github.com/altaga/eVault"
 
 [[repo]]
 url = "https://github.com/altbee/aptos-vault"
@@ -738,6 +886,12 @@ url = "https://github.com/AlvinHappyStar/Pancake_Fork"
 url = "https://github.com/AlvinSwap/contracts-aptos-interfaces"
 
 [[repo]]
+url = "https://github.com/alwerfali1611/aptogotchi"
+
+[[repo]]
+url = "https://github.com/alwerfali89/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Alyth0x/aptos-core"
 
 [[repo]]
@@ -747,16 +901,28 @@ url = "https://github.com/am3rhamdy/aptos-core"
 url = "https://github.com/am3rhamdy/LayerZero-Aptos-Contract"
 
 [[repo]]
+url = "https://github.com/AmaanQureshi01/aptos1"
+
+[[repo]]
 url = "https://github.com/amalia20220301/aptos-wallet"
 
 [[repo]]
 url = "https://github.com/amananand0001/aman-aptos"
 
 [[repo]]
+url = "https://github.com/amandangol/quotes-media-on-aptos"
+
+[[repo]]
+url = "https://github.com/amandangol/quotesphere-on-aptos"
+
+[[repo]]
 url = "https://github.com/amankr1469/Aptos-Winter-Challenge"
 
 [[repo]]
 url = "https://github.com/amankr1469/Aptos-Winter-School"
+
+[[repo]]
+url = "https://github.com/AmanShukla4194/todo-app"
 
 [[repo]]
 url = "https://github.com/AmanUllah2/kingk"
@@ -766,6 +932,12 @@ url = "https://github.com/AmanUllah2/pancakeFork"
 
 [[repo]]
 url = "https://github.com/AmanUllah2/PancakeForkWeb"
+
+[[repo]]
+url = "https://github.com/Amanupadhyay848/Aptosproject"
+
+[[repo]]
+url = "https://github.com/AMANVISHWAKARMA27/DecentralizedJockey"
 
 [[repo]]
 url = "https://github.com/amarchauhan9758/mmo-swap-fork"
@@ -786,6 +958,9 @@ url = "https://github.com/Amman-Moini/Counter"
 url = "https://github.com/amnis-finance/amnis-aptos-wallet-adapter"
 
 [[repo]]
+url = "https://github.com/amnis-finance/amnis-contract-core"
+
+[[repo]]
 url = "https://github.com/amnn/move-mode"
 
 [[repo]]
@@ -804,13 +979,25 @@ url = "https://github.com/Amovane/NinjaNFT"
 url = "https://github.com/amphitheatre-app/amp-example-aptos"
 
 [[repo]]
+url = "https://github.com/Amyjoe0630/aptogotchi"
+
+[[repo]]
 url = "https://github.com/anand220777/HackUEM2-Project"
 
 [[repo]]
 url = "https://github.com/anand220777/P10"
 
 [[repo]]
+url = "https://github.com/anandicx/project"
+
+[[repo]]
+url = "https://github.com/Anasnonos20/aptogotchi"
+
+[[repo]]
 url = "https://github.com/AnatoS7/aptosbridge1"
+
+[[repo]]
+url = "https://github.com/AnderGoig/aptogotchi"
 
 [[repo]]
 url = "https://github.com/AnderUstarroz/cubist-games-frontend"
@@ -840,6 +1027,9 @@ url = "https://github.com/Andriiseer/aptostrike"
 url = "https://github.com/andrijana44/pancake-frontend"
 
 [[repo]]
+url = "https://github.com/andrzaz7/aptogotchi"
+
+[[repo]]
 url = "https://github.com/AndWa/axelar-local-dev"
 
 [[repo]]
@@ -852,10 +1042,16 @@ url = "https://github.com/andyjsbell/ecc-move"
 url = "https://github.com/AndyWarhol239/aptos-core"
 
 [[repo]]
+url = "https://github.com/Angelkitty30/aptogotchi"
+
+[[repo]]
 url = "https://github.com/angganurf/venos-frontend"
 
 [[repo]]
 url = "https://github.com/anhoangphuc/aptos-and-move"
+
+[[repo]]
+url = "https://github.com/anhtrungno11/aptogotchi"
 
 [[repo]]
 url = "https://github.com/AnimeSwap/airdrop"
@@ -876,7 +1072,22 @@ url = "https://github.com/AnimeSwap/v1-sdk"
 url = "https://github.com/AnimeSwap/v1-staking"
 
 [[repo]]
+url = "https://github.com/aniu95zz/aptogotchi"
+
+[[repo]]
+url = "https://github.com/anjali-anjalii/Aptos_project"
+
+[[repo]]
+url = "https://github.com/ANJALIKUMARI789/project-98"
+
+[[repo]]
+url = "https://github.com/anjalirajpu/project"
+
+[[repo]]
 url = "https://github.com/Ankit4903Saha/hackuem-aptos"
+
+[[repo]]
+url = "https://github.com/Ankitnage/aptrosproject"
 
 [[repo]]
 url = "https://github.com/ankur12-1610/futures0xC"
@@ -897,10 +1108,34 @@ url = "https://github.com/AnmolSirola/Move-Development"
 url = "https://github.com/Annongkhanh/coin"
 
 [[repo]]
+url = "https://github.com/Anomies/aptogotchi"
+
+[[repo]]
+url = "https://github.com/anoop04singh/crowdfinding-aptos"
+
+[[repo]]
+url = "https://github.com/anooppr111/aptogotchi"
+
+[[repo]]
+url = "https://github.com/ansht9/Zi-Estate"
+
+[[repo]]
 url = "https://github.com/anshulforyou/split-or-steal-quest"
 
 [[repo]]
+url = "https://github.com/anthonyest47/aptogotchi"
+
+[[repo]]
 url = "https://github.com/AntoIRL/certified"
+
+[[repo]]
+url = "https://github.com/anuj08112003/aptos-project"
+
+[[repo]]
+url = "https://github.com/anujg6266/Payments_System"
+
+[[repo]]
+url = "https://github.com/anuraj9669rajak/anurajproject"
 
 [[repo]]
 url = "https://github.com/anylots/collectionapp"
@@ -922,6 +1157,9 @@ url = "https://github.com/APassNetwork/aptpp-js"
 
 [[repo]]
 url = "https://github.com/apemon/justjpeg"
+
+[[repo]]
+url = "https://github.com/Apexloaded/aptos-social"
 
 [[repo]]
 url = "https://github.com/Apocentre/aptos-core"
@@ -994,6 +1232,9 @@ url = "https://github.com/aptos-casino/frontend"
 
 [[repo]]
 url = "https://github.com/aptos-casino/smart-contracts"
+
+[[repo]]
+url = "https://github.com/aptos-collison/apt-links"
 
 [[repo]]
 url = "https://github.com/aptos-dev/hello-message"
@@ -1083,10 +1324,19 @@ url = "https://github.com/aptos-labs/aptos-api-key-examples"
 url = "https://github.com/aptos-labs/aptos-ascend-explorer"
 
 [[repo]]
+url = "https://github.com/aptos-labs/aptos-build-mint-page-template"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-cad-workshop"
+
+[[repo]]
 url = "https://github.com/aptos-labs/aptos-canvas"
 
 [[repo]]
 url = "https://github.com/aptos-labs/aptos-cli"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-connect-feedback"
 
 [[repo]]
 url = "https://github.com/aptos-labs/aptos-core"
@@ -1098,7 +1348,16 @@ url = "https://github.com/aptos-labs/aptos-core-1"
 url = "https://github.com/aptos-labs/aptos-developer-discussions"
 
 [[repo]]
+url = "https://github.com/aptos-labs/aptos-dotnet-sdk"
+
+[[repo]]
 url = "https://github.com/aptos-labs/aptos-go-sdk"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-indexer-processor-example"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-indexer-processor-sdk"
 
 [[repo]]
 url = "https://github.com/aptos-labs/aptos-indexer-processors"
@@ -1134,6 +1393,9 @@ url = "https://github.com/aptos-labs/aptos-python-sdk"
 url = "https://github.com/aptos-labs/aptos-rosetta"
 
 [[repo]]
+url = "https://github.com/aptos-labs/aptos-sdk-specs"
+
+[[repo]]
 url = "https://github.com/aptos-labs/aptos-tournament"
 
 [[repo]]
@@ -1141,6 +1403,9 @@ url = "https://github.com/aptos-labs/aptos-ts-sdk"
 
 [[repo]]
 url = "https://github.com/aptos-labs/Aptos-Unity-SDK"
+
+[[repo]]
+url = "https://github.com/aptos-labs/aptos-unity-starter"
 
 [[repo]]
 url = "https://github.com/aptos-labs/aptos-wallet-adapter"
@@ -1215,6 +1480,12 @@ url = "https://github.com/aptos-labs/ecosystem-projects"
 url = "https://github.com/aptos-labs/explorer"
 
 [[repo]]
+url = "https://github.com/aptos-labs/gha-playground-0"
+
+[[repo]]
+url = "https://github.com/aptos-labs/gha-playground-1"
+
+[[repo]]
 url = "https://github.com/aptos-labs/governance"
 
 [[repo]]
@@ -1242,6 +1513,9 @@ url = "https://github.com/aptos-labs/iris3"
 url = "https://github.com/aptos-labs/ledger-app-aptos"
 
 [[repo]]
+url = "https://github.com/aptos-labs/LOKI-Aptos"
+
+[[repo]]
 url = "https://github.com/aptos-labs/lz4-rs"
 
 [[repo]]
@@ -1260,7 +1534,13 @@ url = "https://github.com/aptos-labs/move"
 url = "https://github.com/aptos-labs/move-by-examples"
 
 [[repo]]
+url = "https://github.com/aptos-labs/move-smith"
+
+[[repo]]
 url = "https://github.com/aptos-labs/nextra"
+
+[[repo]]
+url = "https://github.com/aptos-labs/nft-aggregator"
 
 [[repo]]
 url = "https://github.com/aptos-labs/nft-tutorial"
@@ -1293,7 +1573,31 @@ url = "https://github.com/aptos-labs/phase2-bn254"
 url = "https://github.com/aptos-labs/pre-commit-hooks"
 
 [[repo]]
+url = "https://github.com/aptos-labs/prisma-client-rust"
+
+[[repo]]
+url = "https://github.com/aptos-labs/prover-dependency"
+
+[[repo]]
+url = "https://github.com/aptos-labs/prover-service"
+
+[[repo]]
+url = "https://github.com/aptos-labs/pyroscope-rs"
+
+[[repo]]
+url = "https://github.com/aptos-labs/rapidsnark"
+
+[[repo]]
+url = "https://github.com/aptos-labs/react-native-arculus-csdk"
+
+[[repo]]
+url = "https://github.com/aptos-labs/rspc"
+
+[[repo]]
 url = "https://github.com/aptos-labs/runner-images"
+
+[[repo]]
+url = "https://github.com/aptos-labs/rust-rapidsnark"
 
 [[repo]]
 url = "https://github.com/aptos-labs/rust-rocksdb"
@@ -1306,6 +1610,9 @@ url = "https://github.com/aptos-labs/semgrep-interfaces"
 
 [[repo]]
 url = "https://github.com/aptos-labs/semgrep-move-on-aptos"
+
+[[repo]]
+url = "https://github.com/aptos-labs/semgrep-move-rules"
 
 [[repo]]
 url = "https://github.com/aptos-labs/serde-reflection"
@@ -1351,6 +1658,9 @@ url = "https://github.com/aptos-labs/tree-sitter-move-on-aptos"
 
 [[repo]]
 url = "https://github.com/aptos-labs/ts-sdk-doc"
+
+[[repo]]
+url = "https://github.com/aptos-labs/unity-sdk"
 
 [[repo]]
 url = "https://github.com/aptos-labs/wallet-adapter-plugin-template"
@@ -1405,6 +1715,9 @@ url = "https://github.com/aptos-move-test/token"
 
 [[repo]]
 url = "https://github.com/aptos-move-test/unit_testing"
+
+[[repo]]
+url = "https://github.com/aptos-nft-studio/about"
 
 [[repo]]
 url = "https://github.com/aptos-nft-studio/Aptos-NFT-Dapp"
@@ -1596,13 +1909,25 @@ url = "https://github.com/archmage-live/archmage-x"
 url = "https://github.com/ArcticSync/arctic-sync"
 
 [[repo]]
+url = "https://github.com/ardee-maker/aptogotchi"
+
+[[repo]]
 url = "https://github.com/argam-134/Aptos"
 
 [[repo]]
 url = "https://github.com/argenestel/aptoscnft-frontend"
 
 [[repo]]
+url = "https://github.com/argenestel/hashpredict"
+
+[[repo]]
 url = "https://github.com/argodao/pyth-crosschain"
+
+[[repo]]
+url = "https://github.com/ArielRobotti/AptosBlackJack"
+
+[[repo]]
+url = "https://github.com/Arindamkumar2004/project-89"
 
 [[repo]]
 url = "https://github.com/AritraSanyal/tokenSwap"
@@ -1612,6 +1937,15 @@ url = "https://github.com/aritroCoder/Snaptos"
 
 [[repo]]
 url = "https://github.com/Arm-Kaz/Aptos7"
+
+[[repo]]
+url = "https://github.com/arminxxx/aptos-project"
+
+[[repo]]
+url = "https://github.com/arshad-jamil-01/aptos_project"
+
+[[repo]]
+url = "https://github.com/ARSHIL1804/medisafe.git"
 
 [[repo]]
 url = "https://github.com/art-by-city/dapp"
@@ -1647,7 +1981,13 @@ url = "https://github.com/ArweaveAlex/arc-index"
 url = "https://github.com/Asad-Ghouri/pancake-frontend"
 
 [[repo]]
+url = "https://github.com/asadawan0990/aptogotchi"
+
+[[repo]]
 url = "https://github.com/ASaid7/APTOs-Blindness-Detection"
+
+[[repo]]
+url = "https://github.com/Asceqx/RockPaperScissorPvRobot"
 
 [[repo]]
 url = "https://github.com/AsfndAmin/APTOS"
@@ -1662,10 +2002,16 @@ url = "https://github.com/Ash20pk/ChainMate"
 url = "https://github.com/AshAvalanche/TraderMoe"
 
 [[repo]]
+url = "https://github.com/ashishkr1294/aptos-project"
+
+[[repo]]
 url = "https://github.com/AshishXoTech/HackUEM2-Final-Project"
 
 [[repo]]
 url = "https://github.com/Ashmitpalit/todoaptos"
+
+[[repo]]
+url = "https://github.com/ashree2118/Finder--decentralized-lost-and-found"
 
 [[repo]]
 url = "https://github.com/ashwin1527/APTOS-SINGAPORE"
@@ -1713,6 +2059,9 @@ url = "https://github.com/Ataxia123/NerdBrain"
 url = "https://github.com/Athsus/Exchange-V2"
 
 [[repo]]
+url = "https://github.com/Athylko/aptogotchi"
+
+[[repo]]
 url = "https://github.com/atlas-dex/portalbridge"
 
 [[repo]]
@@ -1729,6 +2078,9 @@ url = "https://github.com/atticusofsparta/ai-atomics"
 
 [[repo]]
 url = "https://github.com/atuans/pancakeswap"
+
+[[repo]]
+url = "https://github.com/ATUL797431/aptosproject"
 
 [[repo]]
 url = "https://github.com/aurel-fr/overmind-broker-it-yourself"
@@ -1791,10 +2143,25 @@ url = "https://github.com/ayann01/EHR-Aptos-Bootcamp"
 url = "https://github.com/aychocho/AptoCheck"
 
 [[repo]]
+url = "https://github.com/aysclkyaz/aptogotchi"
+
+[[repo]]
 url = "https://github.com/ayush-that/my_first_aptos_dapp"
 
 [[repo]]
 url = "https://github.com/AyushBherwani1998/trust-web3-provider"
+
+[[repo]]
+url = "https://github.com/ayushchamp/PlayPets"
+
+[[repo]]
+url = "https://github.com/Ayushjain2205/swarm-aptos"
+
+[[repo]]
+url = "https://github.com/ayushmaannsingh/Aptos-project"
+
+[[repo]]
+url = "https://github.com/Azamhi/project1"
 
 [[repo]]
 url = "https://github.com/b0ney-1/cal-test"
@@ -1804,6 +2171,9 @@ url = "https://github.com/B0R9F3D9/Aptos-enable-nft-receiving"
 
 [[repo]]
 url = "https://github.com/B0R9F3D9/aptos-galxe-week3"
+
+[[repo]]
+url = "https://github.com/babajani3132/aptogotchi"
 
 [[repo]]
 url = "https://github.com/babayeshifu/aptos-core"
@@ -1819,6 +2189,9 @@ url = "https://github.com/BabyDragon003/aptos-NFT-marketplace"
 
 [[repo]]
 url = "https://github.com/BabyDragon003/uniswapv2-morodex-frontend"
+
+[[repo]]
+url = "https://github.com/BadNoah/aptogotchi"
 
 [[repo]]
 url = "https://github.com/BahianDev/aptos-to-do-list"
@@ -1917,10 +2290,16 @@ url = "https://github.com/bartomolina/zupper"
 url = "https://github.com/baunvb/olong-tea-v2"
 
 [[repo]]
+url = "https://github.com/Bazab4/aptogotchi"
+
+[[repo]]
 url = "https://github.com/bcerecer/move-baseline"
 
 [[repo]]
 url = "https://github.com/bcerecer/sp-marketplace-modules"
+
+[[repo]]
+url = "https://github.com/Beardedbastard7/aptogotchi"
 
 [[repo]]
 url = "https://github.com/beeust/aptos-escrow"
@@ -1933,6 +2312,9 @@ url = "https://github.com/beingofexistence/trash-advanced-server"
 
 [[repo]]
 url = "https://github.com/bejaxer/AMM-Move"
+
+[[repo]]
+url = "https://github.com/Bejoke/aptogotchi"
 
 [[repo]]
 url = "https://github.com/bejos/pancake-frontend20032023"
@@ -1995,6 +2377,9 @@ url = "https://github.com/BerzanXYZ/aptos-social-network-contract"
 url = "https://github.com/BerzanXYZ/aptos-social-network-interface"
 
 [[repo]]
+url = "https://github.com/Besosikk/aptogotchi"
+
+[[repo]]
 url = "https://github.com/BestCryptoKnight/aptos-NFT"
 
 [[repo]]
@@ -2016,10 +2401,19 @@ url = "https://github.com/BeyondClub/frontend"
 url = "https://github.com/BG-SoftWare/airdrops_activity_automation"
 
 [[repo]]
+url = "https://github.com/BhattAnsh/Freelance-Job-Marketplace"
+
+[[repo]]
 url = "https://github.com/Bhavneet1492/Aptos-Challenge-Solution"
 
 [[repo]]
+url = "https://github.com/BHUMIKAPATIDAR-PROG/block_chain_bhumi"
+
+[[repo]]
 url = "https://github.com/bhutta03/mint_nft_aptos"
+
+[[repo]]
+url = "https://github.com/BiBlake/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Bicabo98/irys-bundlr"
@@ -2035,6 +2429,9 @@ url = "https://github.com/bigbangbtc/bootstrap-aptos-fullnode"
 
 [[repo]]
 url = "https://github.com/BigBen3918/ez_dapp"
+
+[[repo]]
+url = "https://github.com/Biku213/Hangman-Game"
 
 [[repo]]
 url = "https://github.com/bilalafzal97/aptos_testing_marketplace"
@@ -2073,6 +2470,9 @@ url = "https://github.com/bitindi/explorer"
 url = "https://github.com/bitsoftd/arco-protocol"
 
 [[repo]]
+url = "https://github.com/bjafar-spyboy32/aptogotchi"
+
+[[repo]]
 url = "https://github.com/bjfumac/AptosUnitySDK"
 
 [[repo]]
@@ -2086,6 +2486,12 @@ url = "https://github.com/BlackSecretToken/Aptos-Lending"
 
 [[repo]]
 url = "https://github.com/blaize-tech/aptos_sui_hack_2023_fe"
+
+[[repo]]
+url = "https://github.com/BlarksWurld/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Blasbbherrera/aptogotchi"
 
 [[repo]]
 url = "https://github.com/BlathanAevon/aptos_multi_swap"
@@ -2157,10 +2563,16 @@ url = "https://github.com/Blue630/Aptos-labs"
 url = "https://github.com/Bluefiredreams/aptos-core"
 
 [[repo]]
+url = "https://github.com/bluncksanne/aptogotchi"
+
+[[repo]]
 url = "https://github.com/bm33m/pay-me-a-river-remastered"
 
 [[repo]]
 url = "https://github.com/bmwoolf/aptos-core"
+
+[[repo]]
+url = "https://github.com/BobaTea-AI/Intro"
 
 [[repo]]
 url = "https://github.com/bonedaddy/movemate"
@@ -2280,6 +2692,9 @@ url = "https://github.com/c410-f3r/lucia"
 url = "https://github.com/cabilikamila/cabila"
 
 [[repo]]
+url = "https://github.com/Caerlower/Melodica-dapp"
+
+[[repo]]
 url = "https://github.com/CakeParty/zadanie_rekrutacyjne"
 
 [[repo]]
@@ -2290,6 +2705,9 @@ url = "https://github.com/calebhughes16/Aptos-NFT-Mint"
 
 [[repo]]
 url = "https://github.com/Callmediat/faqih123talk"
+
+[[repo]]
+url = "https://github.com/camgoz4141/aptogotchi"
 
 [[repo]]
 url = "https://github.com/cancan1972/airdrop"
@@ -2352,6 +2770,9 @@ url = "https://github.com/carbbykid/coin98-wallet-plugin"
 url = "https://github.com/cargood/arco-protocol"
 
 [[repo]]
+url = "https://github.com/Carinaschool/5corps"
+
+[[repo]]
 url = "https://github.com/carllippert/floo_network"
 
 [[repo]]
@@ -2365,6 +2786,9 @@ url = "https://github.com/Caruso33/aptos_move"
 
 [[repo]]
 url = "https://github.com/Caruso33/caruso33"
+
+[[repo]]
+url = "https://github.com/cassila/aptogotchi"
 
 [[repo]]
 url = "https://github.com/cattermelon-xyz/pos_solana"
@@ -2397,7 +2821,16 @@ url = "https://github.com/CaviesLabs/hamsterpocket-move-program"
 url = "https://github.com/ccbond/birthday_bot"
 
 [[repo]]
+url = "https://github.com/Ccikaosolu/aptogotchi"
+
+[[repo]]
 url = "https://github.com/ccinohub/pay-me-a-river-remastered"
+
+[[repo]]
+url = "https://github.com/CedricJohn/aptogotchi"
+
+[[repo]]
+url = "https://github.com/CellanaFinance/core"
 
 [[repo]]
 url = "https://github.com/CertiKProject/CTF_MOVEMENT_2022"
@@ -2427,6 +2860,9 @@ url = "https://github.com/chainsulting/Smart-Contract-Security-Audits"
 url = "https://github.com/chakri-chax/Aptos"
 
 [[repo]]
+url = "https://github.com/chami8t/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Chandra-Gupt/MultiChain"
 
 [[repo]]
@@ -2434,6 +2870,9 @@ url = "https://github.com/charans29/E2E-Aptos-dapp"
 
 [[repo]]
 url = "https://github.com/CharbelEid991/CoinFlip"
+
+[[repo]]
+url = "https://github.com/charlesikenye/aptogotchi"
 
 [[repo]]
 url = "https://github.com/CharlestonX-DAO/aptos-core"
@@ -2454,7 +2893,19 @@ url = "https://github.com/chickentom888/push_fe"
 url = "https://github.com/chiemezie1/Aptos_DeFi"
 
 [[repo]]
+url = "https://github.com/Chiku1703/aptogotchi"
+
+[[repo]]
 url = "https://github.com/chinese-zodiac/czcash-pcs-fork-fe"
+
+[[repo]]
+url = "https://github.com/chingari-admin/Aptos-Staking-Contract"
+
+[[repo]]
+url = "https://github.com/ChioAA/aptos-first-steps.git"
+
+[[repo]]
+url = "https://github.com/ChioAA/CandieVerse"
 
 [[repo]]
 url = "https://github.com/Chitran21Chakraborty/SmartContract25-aptos-project"
@@ -2470,6 +2921,9 @@ url = "https://github.com/CHNGMNT/aptos-wallets-generator"
 
 [[repo]]
 url = "https://github.com/Cho202/aux-exchange"
+
+[[repo]]
+url = "https://github.com/choguun/voxelbattle-move"
 
 [[repo]]
 url = "https://github.com/Chomtana/aptos-ens-gateway"
@@ -2505,7 +2959,13 @@ url = "https://github.com/ChzenChzen/noot-standard"
 url = "https://github.com/CipherDogs/balance"
 
 [[repo]]
+url = "https://github.com/cipherzeroprotocol/Cipher-Zero-Frontend"
+
+[[repo]]
 url = "https://github.com/classic-k/frpans"
+
+[[repo]]
+url = "https://github.com/Clea20/aptogotchi"
 
 [[repo]]
 url = "https://github.com/clpi/g"
@@ -2559,7 +3019,13 @@ url = "https://github.com/codestates/BTAFinalProject-09"
 url = "https://github.com/codeTIT4N/move-aptos-examples"
 
 [[repo]]
+url = "https://github.com/Codewiizard/Password-manager-using-Blockchain.git"
+
+[[repo]]
 url = "https://github.com/codingwithmanny/smartcontractar"
+
+[[repo]]
+url = "https://github.com/codyy6/Devmatch-2"
 
 [[repo]]
 url = "https://github.com/coffeemuggg/ArweaveHackathon"
@@ -2610,16 +3076,25 @@ url = "https://github.com/concordia-fi/rational_math"
 url = "https://github.com/connext/monorepo"
 
 [[repo]]
+url = "https://github.com/Conspirer/aptos"
+
+[[repo]]
 url = "https://github.com/CoolBitX-Technology/coolwallet-sdk"
 
 [[repo]]
 url = "https://github.com/coolfred8832/cf-dex-frontend"
 
 [[repo]]
+url = "https://github.com/CopperRoger/NFT_market"
+
+[[repo]]
 url = "https://github.com/corriente-labs/half-evm"
 
 [[repo]]
 url = "https://github.com/cosmostation/cosmostation-chrome-extension"
+
+[[repo]]
+url = "https://github.com/Couchy2/aptogotchi"
 
 [[repo]]
 url = "https://github.com/CrashNosok/aptos-enable-nft"
@@ -2634,7 +3109,13 @@ url = "https://github.com/CrashNosok/aptos-names-v2"
 url = "https://github.com/CrashNosok/aptos_check_nfts"
 
 [[repo]]
+url = "https://github.com/crazydollar8/aptogotchi"
+
+[[repo]]
 url = "https://github.com/CrazyDream000/Seam-Aptos-frontend"
+
+[[repo]]
+url = "https://github.com/crestfallnatwork/move-on-aptos-hackathon"
 
 [[repo]]
 url = "https://github.com/crustio/aptos-storage-contract"
@@ -2647,6 +3128,9 @@ url = "https://github.com/crypt0summer/node-express"
 
 [[repo]]
 url = "https://github.com/crypto-com/deficonnect-monorepo"
+
+[[repo]]
+url = "https://github.com/CRYPTO-Gibbster/aptogotchi"
 
 [[repo]]
 url = "https://github.com/crypto-MMXXII/get_all_wallets"
@@ -2683,6 +3167,9 @@ url = "https://github.com/cryptodev1990/aptos-NFT-marketplace"
 
 [[repo]]
 url = "https://github.com/cryptodev1990/beyondowls-smart-contract-"
+
+[[repo]]
+url = "https://github.com/cryptoisbetterthanfiat/aptogotchi"
 
 [[repo]]
 url = "https://github.com/cryptomonk12/aptos-move-auction"
@@ -2754,7 +3241,16 @@ url = "https://github.com/cxlabs-org/extra-aptos-wallet"
 url = "https://github.com/cyberserk/aptosnfttest"
 
 [[repo]]
+url = "https://github.com/CYGNUSMK/aptogotchi"
+
+[[repo]]
+url = "https://github.com/cylim/aptogotchi"
+
+[[repo]]
 url = "https://github.com/cytronicoder/aidharbor"
+
+[[repo]]
+url = "https://github.com/Czeel/aptogotchi"
 
 [[repo]]
 url = "https://github.com/D0723/Aptos-LiquidSwap"
@@ -2773,6 +3269,12 @@ url = "https://github.com/D777Del/trust-web3-provider"
 
 [[repo]]
 url = "https://github.com/D8-X/pyth-crosschain-d8x"
+
+[[repo]]
+url = "https://github.com/Daario-spec/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Dack07/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Dadzarojun/token-list"
@@ -2874,13 +3376,28 @@ url = "https://github.com/dalfredostrowski/aptos_token_vesting"
 url = "https://github.com/DALHOUM-Ahmed/lava-test"
 
 [[repo]]
+url = "https://github.com/Daliemelo1/aptogotchi"
+
+[[repo]]
 url = "https://github.com/damiennarozniak/royaleDeluxe"
 
 [[repo]]
 url = "https://github.com/damirka/move"
 
 [[repo]]
+url = "https://github.com/Dammypress/aptogotchi"
+
+[[repo]]
+url = "https://github.com/DanielHighETH/community-karma"
+
+[[repo]]
+url = "https://github.com/Danielmwai999/aptogotchi"
+
+[[repo]]
 url = "https://github.com/DanKlaver15/pay_me_a_river_remastered"
+
+[[repo]]
+url = "https://github.com/Danlade6543/aptogotchi"
 
 [[repo]]
 url = "https://github.com/danmatuszak/aptos-dapp"
@@ -2907,6 +3424,15 @@ url = "https://github.com/dappradar/defi-providers"
 url = "https://github.com/dappsar/blockchains-based-on-execution-types"
 
 [[repo]]
+url = "https://github.com/Dar-Blockchain/Aptos-officeVerse"
+
+[[repo]]
+url = "https://github.com/Darex49/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Darichglobal/aptogotchi"
+
+[[repo]]
 url = "https://github.com/darkhorse930304/move-basic-token"
 
 [[repo]]
@@ -2916,7 +3442,13 @@ url = "https://github.com/darkhorse930304/move-lang-example"
 url = "https://github.com/darren-wangg/aptogotchi"
 
 [[repo]]
+url = "https://github.com/darsh1510/coin-flip.git"
+
+[[repo]]
 url = "https://github.com/davd-ops/aptos-pay"
+
+[[repo]]
+url = "https://github.com/davd-ops/aptos.institute"
 
 [[repo]]
 url = "https://github.com/davidalfredostrowski/end-to-end_dapp_aptos"
@@ -2949,6 +3481,9 @@ url = "https://github.com/DaviRain-Su/learn-smart-contract"
 url = "https://github.com/daweth/aptos-wallet-next"
 
 [[repo]]
+url = "https://github.com/dayiemgatwich/aptogotchi"
+
+[[repo]]
 url = "https://github.com/dbadoy/ts-chain-balance"
 
 [[repo]]
@@ -2965,6 +3500,9 @@ url = "https://github.com/deadcultaptos/aptosmintmain"
 
 [[repo]]
 url = "https://github.com/deadcultaptos/deadcult"
+
+[[repo]]
+url = "https://github.com/DeathClubcc/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Debjitvk18/Crowdfunding_blockchain_Devdynasty15"
@@ -2994,7 +3532,16 @@ url = "https://github.com/decentldotland/molecule"
 url = "https://github.com/decepticawn/overnetpt2"
 
 [[repo]]
+url = "https://github.com/Decoder-007/SkillChain"
+
+[[repo]]
 url = "https://github.com/decooio/aptos-core"
+
+[[repo]]
+url = "https://github.com/Deep712sharma/hackathon"
+
+[[repo]]
+url = "https://github.com/deepakpatel12345/aptproj1"
 
 [[repo]]
 url = "https://github.com/deepakpraka/Kana-Trade-Backend-"
@@ -3012,6 +3559,15 @@ url = "https://github.com/Deepakraja03/my_first_aptos_app"
 url = "https://github.com/DeepakSilaych/AptoTrade"
 
 [[repo]]
+url = "https://github.com/deepukumar2006/aptosproject31"
+
+[[repo]]
+url = "https://github.com/DefaMantribus/aptogotchi"
+
+[[repo]]
+url = "https://github.com/defendersonkar784/aptus-project"
+
+[[repo]]
 url = "https://github.com/DegaLabs/collectibleswap-aptos"
 
 [[repo]]
@@ -3022,6 +3578,9 @@ url = "https://github.com/Deiver1056/aptos-core"
 
 [[repo]]
 url = "https://github.com/dejidee0/word-hold-on"
+
+[[repo]]
+url = "https://github.com/Dejiodetola/aptogotchi"
 
 [[repo]]
 url = "https://github.com/deltaswapio/deltaswap"
@@ -3046,6 +3605,12 @@ url = "https://github.com/demianDAO/demo-aptos"
 
 [[repo]]
 url = "https://github.com/demircimuhammedd/OmniSwap"
+
+[[repo]]
+url = "https://github.com/denelite/aptogotchi"
+
+[[repo]]
+url = "https://github.com/DenisovPlay/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Dennisic/1241241"
@@ -3174,6 +3739,9 @@ url = "https://github.com/derekCRO/lend-oracle"
 url = "https://github.com/derfc/abel_coin"
 
 [[repo]]
+url = "https://github.com/Derilluqman/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Desgard/Aptos-NFT-Mint"
 
 [[repo]]
@@ -3219,6 +3787,12 @@ url = "https://github.com/devarogundade/tunnel"
 url = "https://github.com/devdev29/ClosedC"
 
 [[repo]]
+url = "https://github.com/developeraman4/aptos"
+
+[[repo]]
+url = "https://github.com/devennagar/aptos-project"
+
+[[repo]]
 url = "https://github.com/devjohn58/aptostool"
 
 [[repo]]
@@ -3229,6 +3803,9 @@ url = "https://github.com/devking877/nftmarket_1"
 
 [[repo]]
 url = "https://github.com/devnneth/matic-irys-funding-example"
+
+[[repo]]
+url = "https://github.com/devsisingh/code-collision"
 
 [[repo]]
 url = "https://github.com/devstar0703/APTOS-NFT-Contract"
@@ -3244,6 +3821,9 @@ url = "https://github.com/dexter-zone/defillama-server"
 
 [[repo]]
 url = "https://github.com/dforce-network/pyth-crosschain"
+
+[[repo]]
+url = "https://github.com/dhairyaaa15/Poke-NFT.git"
 
 [[repo]]
 url = "https://github.com/dhammanandmisale/NFT"
@@ -3315,6 +3895,9 @@ url = "https://github.com/DikanshaBindal/TechHustler_2.0"
 url = "https://github.com/Dirotnih/RDDAOSWAP."
 
 [[repo]]
+url = "https://github.com/Dishant-garg/Spheron_Aptos_Hackathon"
+
+[[repo]]
 url = "https://github.com/ditto-research/ditto-interface"
 
 [[repo]]
@@ -3325,6 +3908,12 @@ url = "https://github.com/DivineDimension/Contracts"
 
 [[repo]]
 url = "https://github.com/DivineDimension/Samplecontracts"
+
+[[repo]]
+url = "https://github.com/Djain-13/Secure-Online-Exam-Proctoring"
+
+[[repo]]
+url = "https://github.com/DjDriftwood619/aptogotchi"
 
 [[repo]]
 url = "https://github.com/DloomPlz/Aptos-NFT-Mint"
@@ -3363,6 +3952,9 @@ url = "https://github.com/dodger213/MultiChain_NFT_marketplace"
 url = "https://github.com/dogukanakkaya/permahistory"
 
 [[repo]]
+url = "https://github.com/dollarprince/aptogotchi"
+
+[[repo]]
 url = "https://github.com/dolomite-exchange/defillama-server"
 
 [[repo]]
@@ -3394,6 +3986,9 @@ url = "https://github.com/dragon-swap-klaytn/dragon-frontend"
 
 [[repo]]
 url = "https://github.com/dragonlead/stakemint-frontend"
+
+[[repo]]
+url = "https://github.com/dragoonzx/svoy"
 
 [[repo]]
 url = "https://github.com/DragVerse/MARSHA"
@@ -3453,6 +4048,9 @@ url = "https://github.com/dsrvlabs/sui-mystenlabs"
 url = "https://github.com/dsrvlabs/wds-code-remix"
 
 [[repo]]
+url = "https://github.com/Ducan2013/aptogotchi"
+
+[[repo]]
 url = "https://github.com/dulumao/aptos-contracts-annotated"
 
 [[repo]]
@@ -3462,7 +4060,13 @@ url = "https://github.com/dungnt97/testing"
 url = "https://github.com/durotolu/pay-me-a-river-remastered"
 
 [[repo]]
+url = "https://github.com/Dvcool12/aptogotchi"
+
+[[repo]]
 url = "https://github.com/dxtn89/aptos-bingo-cll4f0uaj0000mj08jdc6s826"
+
+[[repo]]
+url = "https://github.com/dxyrs/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Dyleum1/dex-UI"
@@ -3478,6 +4082,12 @@ url = "https://github.com/earlybird0214/wormhole_portal_bridge"
 
 [[repo]]
 url = "https://github.com/earlybird0214/wormhole_relayer"
+
+[[repo]]
+url = "https://github.com/EasyA-Tech/aptos-handbook"
+
+[[repo]]
+url = "https://github.com/ebrahimbushie/aptogotchi"
 
 [[repo]]
 url = "https://github.com/ecdsa2008/aptos-contracts-annotated"
@@ -3510,7 +4120,25 @@ url = "https://github.com/edgetechnician/aptos-marketplace-stack-local"
 url = "https://github.com/edgetechnician/aptos-mint-site"
 
 [[repo]]
+url = "https://github.com/edmontonhass/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Edrelle/aptogotchi"
+
+[[repo]]
 url = "https://github.com/EffandiAhmadTurk/Overmind-frontend-module"
+
+[[repo]]
+url = "https://github.com/eigerco/move-spec-testing"
+
+[[repo]]
+url = "https://github.com/eigerco/pallet-move"
+
+[[repo]]
+url = "https://github.com/Eimzola/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Einstein-COOL/aptogotchi"
 
 [[repo]]
 url = "https://github.com/ekc9399/aptos-core"
@@ -3523,6 +4151,9 @@ url = "https://github.com/ekc9399/cuddly-tribble"
 
 [[repo]]
 url = "https://github.com/Ekgardt/aptos"
+
+[[repo]]
+url = "https://github.com/ekremturker/aptogotchi"
 
 [[repo]]
 url = "https://github.com/elamaryami/aux-exchange"
@@ -3543,6 +4174,9 @@ url = "https://github.com/Elishaokon13/AptosExplorer"
 url = "https://github.com/ellen3njoy/sample_nft_market"
 
 [[repo]]
+url = "https://github.com/Elraze/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Elvolution20/planetopia-dex"
 
 [[repo]]
@@ -3552,7 +4186,16 @@ url = "https://github.com/elysia-dev/betos"
 url = "https://github.com/emberfarkas/musicz-solana"
 
 [[repo]]
+url = "https://github.com/Emerson2227/aptogotchi"
+
+[[repo]]
+url = "https://github.com/EmilKietzman/aptogotchi"
+
+[[repo]]
 url = "https://github.com/emily876/snl-aptos"
+
+[[repo]]
+url = "https://github.com/EmmanuelEarn/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Emmanueluzoezie/ofibox"
@@ -3579,6 +4222,9 @@ url = "https://github.com/endadinh/hello_aptos"
 url = "https://github.com/endadinh/yield_farm"
 
 [[repo]]
+url = "https://github.com/engmxr/aptogotchi"
+
+[[repo]]
 url = "https://github.com/ENJOY-LAB/blotco-souffl3"
 
 [[repo]]
@@ -3589,6 +4235,9 @@ url = "https://github.com/Entropy-Foundation/aptos-core"
 
 [[repo]]
 url = "https://github.com/Envoy-VC/arweave-react-starter"
+
+[[repo]]
+url = "https://github.com/eragon-gg/eragon-move-contracts"
 
 [[repo]]
 url = "https://github.com/Erdein40/erdein4444"
@@ -3615,10 +4264,16 @@ url = "https://github.com/erikmacinnis/aptos-todo-app"
 url = "https://github.com/erikmacinnis/AptosTodoApp"
 
 [[repo]]
+url = "https://github.com/errraB/aptogotchi"
+
+[[repo]]
 url = "https://github.com/espstarterdao/aptos-token"
 
 [[repo]]
 url = "https://github.com/EstherLavender/Axelar"
+
+[[repo]]
+url = "https://github.com/Esthrz/aptogotchi"
 
 [[repo]]
 url = "https://github.com/eth-lifemining/eth-lifemining-web"
@@ -3628,6 +4283,9 @@ url = "https://github.com/Ethen-007/SkillSync"
 
 [[repo]]
 url = "https://github.com/evanbarbatos/klaytn-ticket"
+
+[[repo]]
+url = "https://github.com/evansjnr25/aptogotchi"
 
 [[repo]]
 url = "https://github.com/ever0de/aptos-core"
@@ -3696,6 +4354,12 @@ url = "https://github.com/expand-network/sdk-nodejs"
 url = "https://github.com/expressodaily/pancakeswap-frontend-fork"
 
 [[repo]]
+url = "https://github.com/Eyeroller/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Faang21/aptogotchi"
+
+[[repo]]
 url = "https://github.com/faas3/faas3-cli"
 
 [[repo]]
@@ -3712,6 +4376,12 @@ url = "https://github.com/FAIR-Protocol/contracts"
 
 [[repo]]
 url = "https://github.com/FAIR-Protocol/landing-page"
+
+[[repo]]
+url = "https://github.com/FairyTailErza/aptogotchi"
+
+[[repo]]
+url = "https://github.com/faisal0255/projectaptos"
 
 [[repo]]
 url = "https://github.com/fardream/aptos-core"
@@ -3735,7 +4405,16 @@ url = "https://github.com/faustino-luis/aptos-sample"
 url = "https://github.com/fedor3825/aptos-core"
 
 [[repo]]
+url = "https://github.com/feiyuka/aptogotchi"
+
+[[repo]]
+url = "https://github.com/ferbran22/aptogotchi"
+
+[[repo]]
 url = "https://github.com/fergmolina/lukear"
+
+[[repo]]
+url = "https://github.com/FerhatG05826224/aptogotchi"
 
 [[repo]]
 url = "https://github.com/ferum-labs/ferum-std"
@@ -3756,7 +4435,16 @@ url = "https://github.com/ferumlabs/ferum-tuorial-margin-trading"
 url = "https://github.com/Ferv0r2/APTOS"
 
 [[repo]]
+url = "https://github.com/feryvadly/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Fesotam/aptogotchi"
+
+[[repo]]
 url = "https://github.com/FetcchX/wormhole-relayer"
+
+[[repo]]
+url = "https://github.com/Fethallah16/aptogotchi"
 
 [[repo]]
 url = "https://github.com/fewcha-wallet/fewcha-aptos"
@@ -3798,6 +4486,9 @@ url = "https://github.com/fnkk/AptosGraduationProject"
 url = "https://github.com/FocalizeApp/focalize-extension"
 
 [[repo]]
+url = "https://github.com/Follobmohim/aptogotchi"
+
+[[repo]]
 url = "https://github.com/foolstack-omg/block-tech-sharing"
 
 [[repo]]
@@ -3828,7 +4519,13 @@ url = "https://github.com/frankngugi/overmind"
 url = "https://github.com/freeelancer/pay-me-a-river-remastered"
 
 [[repo]]
+url = "https://github.com/FREEZE5000/aptogotchi"
+
+[[repo]]
 url = "https://github.com/frosh-li/apt-20"
+
+[[repo]]
+url = "https://github.com/fruttelochka/aptogotchi"
 
 [[repo]]
 url = "https://github.com/fstar1129/oracle-aptos"
@@ -3841,6 +4538,9 @@ url = "https://github.com/fswizard/aptos-land"
 
 [[repo]]
 url = "https://github.com/FTM-Labs/Aptos-NFT-Mint"
+
+[[repo]]
+url = "https://github.com/Fuckyflapyface/aptogotchi"
 
 [[repo]]
 url = "https://github.com/fukaoi/solana-suite"
@@ -3873,10 +4573,19 @@ url = "https://github.com/GAEAlimited/GSC-web3auth"
 url = "https://github.com/GalaxyNode/lava"
 
 [[repo]]
+url = "https://github.com/gangadhar1994g/aptogotchi"
+
+[[repo]]
+url = "https://github.com/gangstarr60/aptogotchi"
+
+[[repo]]
 url = "https://github.com/gaozhengxin/aptos-core"
 
 [[repo]]
 url = "https://github.com/gaozhengxin/multichain-move"
+
+[[repo]]
+url = "https://github.com/Garfield0007/project_05"
 
 [[repo]]
 url = "https://github.com/gari-network/chingari-livepeer-sdk"
@@ -3886,6 +4595,12 @@ url = "https://github.com/Gatos-powered-by-Aptos/Gatos-Move"
 
 [[repo]]
 url = "https://github.com/Gatos-powered-by-Aptos/Gatos-Web"
+
+[[repo]]
+url = "https://github.com/gau0o/aptogotchi"
+
+[[repo]]
+url = "https://github.com/gauravjain03/AI-for-intelligent-camera-decision-making.git"
 
 [[repo]]
 url = "https://github.com/gauravkumawat04/HackUEM-Final-Project"
@@ -3924,6 +4639,9 @@ url = "https://github.com/geometryolife/web3-notes"
 url = "https://github.com/george-mathewk/aptos"
 
 [[repo]]
+url = "https://github.com/Gfhgfhj/aptogotchi"
+
+[[repo]]
 url = "https://github.com/ggomaeng/persecond"
 
 [[repo]]
@@ -3937,6 +4655,9 @@ url = "https://github.com/GHkrishna/overmind-react-quest-1"
 
 [[repo]]
 url = "https://github.com/Ghonghito/Aptolio"
+
+[[repo]]
+url = "https://github.com/Ghulamwaheed9141/aptogotchi"
 
 [[repo]]
 url = "https://github.com/giangtranmd/aptos-core"
@@ -4005,7 +4726,13 @@ url = "https://github.com/goran9999/wormhole-sol"
 url = "https://github.com/Gornozon/APTOS-Drainer"
 
 [[repo]]
+url = "https://github.com/GotDragon911/Aptos-Project"
+
+[[repo]]
 url = "https://github.com/GradientDeFi/nft-gas-cost"
+
+[[repo]]
+url = "https://github.com/GraJulTri/aptogotchi"
 
 [[repo]]
 url = "https://github.com/grandima/solana-toolkit"
@@ -4059,6 +4786,9 @@ url = "https://github.com/gregshen0925/inbond"
 url = "https://github.com/gregshen0925/injoylabs-campaign"
 
 [[repo]]
+url = "https://github.com/GSgiansen/Aptos24"
+
+[[repo]]
 url = "https://github.com/GudanovaAngelina/aptos-core"
 
 [[repo]]
@@ -4068,16 +4798,25 @@ url = "https://github.com/guibescos/pyth-aptos-example"
 url = "https://github.com/guinjgida/aptos-dapp-interview"
 
 [[repo]]
+url = "https://github.com/gulfam3101/aptogotchi"
+
+[[repo]]
 url = "https://github.com/gumhq/gum-quickstart"
 
 [[repo]]
 url = "https://github.com/gunaseelan25/ditto_staking"
 
 [[repo]]
+url = "https://github.com/guruh46/aptogotchi"
+
+[[repo]]
 url = "https://github.com/gurujustin/pancakev3-pulse"
 
 [[repo]]
 url = "https://github.com/gurujustin/pancakev3-pulsetestnet"
+
+[[repo]]
+url = "https://github.com/gus-host/APTHorse"
 
 [[repo]]
 url = "https://github.com/guvenenes/Pancakeswap"
@@ -4092,7 +4831,13 @@ url = "https://github.com/ha0s45/lz_for"
 url = "https://github.com/Habeebtoyin/TowerFull-App"
 
 [[repo]]
+url = "https://github.com/hadisafdar/Cricktos"
+
+[[repo]]
 url = "https://github.com/HAECHI-LABS/face-aptos-adapter"
+
+[[repo]]
+url = "https://github.com/hamsonkb/aptogotchi"
 
 [[repo]]
 url = "https://github.com/hamster-shared/nft-activity"
@@ -4173,7 +4918,16 @@ url = "https://github.com/happyleow/contracts-1"
 url = "https://github.com/HAPPYS1NGH/arweave-atomic-asset"
 
 [[repo]]
+url = "https://github.com/harikru/Aptos-Project"
+
+[[repo]]
 url = "https://github.com/harini-kannan/aptos-amm"
+
+[[repo]]
+url = "https://github.com/Hariom-19/Rise_in_02"
+
+[[repo]]
+url = "https://github.com/HarjjotSinghh/avocodos-web"
 
 [[repo]]
 url = "https://github.com/HarjjotSinghh/CredChain"
@@ -4209,7 +4963,16 @@ url = "https://github.com/hashkeydid/hashkeydid-aptos"
 url = "https://github.com/Hashmozy/aptos_project"
 
 [[repo]]
+url = "https://github.com/Hassan5alem/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Hassanmonsif/aptogotchi"
+
+[[repo]]
 url = "https://github.com/HaticeBz/hello-overmind"
+
+[[repo]]
+url = "https://github.com/Hattorius/AptosJackpot"
 
 [[repo]]
 url = "https://github.com/Hawthorne001/wallet-aggregator-sdk"
@@ -4221,16 +4984,25 @@ url = "https://github.com/hcf321/hcfswap"
 url = "https://github.com/hdy853134/hdy"
 
 [[repo]]
+url = "https://github.com/heliakeem/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Helme0315/aptoswap"
 
 [[repo]]
 url = "https://github.com/hemantchaurasia2004/Aptos-snap"
 
 [[repo]]
+url = "https://github.com/HemeshKanyal/Online-exam-Proctoring"
+
+[[repo]]
 url = "https://github.com/HermanCeaser/real-time-payments"
 
 [[repo]]
 url = "https://github.com/heroesofnft/axelar-local-gmp-examples"
+
+[[repo]]
+url = "https://github.com/HeroicGentleman/aptogotchi"
 
 [[repo]]
 url = "https://github.com/hethm999/youtube-tutorials"
@@ -4243,6 +5015,9 @@ url = "https://github.com/heyaptos/aptos-front-template"
 
 [[repo]]
 url = "https://github.com/HeyLaurelTestOrg/aptos-core"
+
+[[repo]]
+url = "https://github.com/HHGoa/Vortex-Engine-Aptos-Module"
 
 [[repo]]
 url = "https://github.com/HibikiAikawa/aptos"
@@ -4264,6 +5039,9 @@ url = "https://github.com/himanshu4327/alien"
 
 [[repo]]
 url = "https://github.com/himanshugk/HackUEM2-Project"
+
+[[repo]]
+url = "https://github.com/Himanshuji302/HIMANSHU"
 
 [[repo]]
 url = "https://github.com/hippospace/aptos-core"
@@ -4293,7 +5071,16 @@ url = "https://github.com/hippospace/hippo-wallet"
 url = "https://github.com/hippospace/move-to-ts"
 
 [[repo]]
+url = "https://github.com/HITESH07-TECH/AuthentiChain"
+
+[[repo]]
+url = "https://github.com/HITESH07-TECH/ReliefChain"
+
+[[repo]]
 url = "https://github.com/hiteshbeigneer/ajay01-aptos-project"
+
+[[repo]]
+url = "https://github.com/hk0ie8/aptogotchi"
 
 [[repo]]
 url = "https://github.com/hka-wombat/aptos-wombat"
@@ -4306,6 +5093,9 @@ url = "https://github.com/hlee4real/aptos-move-dutch-auction"
 
 [[repo]]
 url = "https://github.com/hlee4real/move-token"
+
+[[repo]]
+url = "https://github.com/Hln11x/aptogotchi"
 
 [[repo]]
 url = "https://github.com/hoale58-vl/keystone-aptos-keyring"
@@ -4350,6 +5140,9 @@ url = "https://github.com/Hokagedevu/tea-blockchain"
 url = "https://github.com/holaplex/hub-uploads"
 
 [[repo]]
+url = "https://github.com/Homageset/aptogotchi"
+
+[[repo]]
 url = "https://github.com/honehone12/auctionable_token_objects"
 
 [[repo]]
@@ -4390,6 +5183,9 @@ url = "https://github.com/horizonx-tech/aptos-wallet-connector"
 
 [[repo]]
 url = "https://github.com/horizonx-tech/leizd-aptos-core"
+
+[[repo]]
+url = "https://github.com/hossenbddhaka/aptogotchi"
 
 [[repo]]
 url = "https://github.com/hotboice/aptos_coin"
@@ -4512,7 +5308,13 @@ url = "https://github.com/igor-aptos/txn-submit-cli"
 url = "https://github.com/igorline/aptos-core"
 
 [[repo]]
+url = "https://github.com/igorodrigues/aptogotchi"
+
+[[repo]]
 url = "https://github.com/iiamankumar/HackXI11"
+
+[[repo]]
+url = "https://github.com/Ikarruss/aptogotchi"
 
 [[repo]]
 url = "https://github.com/ikhsandadan/aptos-token-swap"
@@ -4536,10 +5338,16 @@ url = "https://github.com/ilesoviy/nftango"
 url = "https://github.com/ilesoviy/pay-me-a-river"
 
 [[repo]]
+url = "https://github.com/ilkerli/aptogotchi"
+
+[[repo]]
 url = "https://github.com/ily4farmer/CookieSwap"
 
 [[repo]]
 url = "https://github.com/IlyaSmiyukha/OnlyBundlr"
+
+[[repo]]
+url = "https://github.com/imamankrsingh/Aptos-Project"
 
 [[repo]]
 url = "https://github.com/imcoding-online/aptos-mint-nft-demo"
@@ -4551,10 +5359,16 @@ url = "https://github.com/imduchuyyy/hello_aptos"
 url = "https://github.com/imetandy/endcoin"
 
 [[repo]]
+url = "https://github.com/imp1ssible23/aptogotchi"
+
+[[repo]]
 url = "https://github.com/imterryyy/hello_aptos"
 
 [[repo]]
 url = "https://github.com/indi-gg/kcash_v2_contract_move_aptos"
+
+[[repo]]
+url = "https://github.com/indresh0/to_do_list"
 
 [[repo]]
 url = "https://github.com/infinite0731/Token-Swap-Aptos"
@@ -4632,6 +5446,9 @@ url = "https://github.com/ishika-2005/Hackuem2.0-Project"
 url = "https://github.com/iskariott/iskariott.github.io"
 
 [[repo]]
+url = "https://github.com/Isma1982/aptogotchi"
+
+[[repo]]
 url = "https://github.com/ismoilovdevml/cs-uz"
 
 [[repo]]
@@ -4639,6 +5456,9 @@ url = "https://github.com/ismoilovdevml/devops-journey"
 
 [[repo]]
 url = "https://github.com/ismoilovdevml/os-dev-blog"
+
+[[repo]]
+url = "https://github.com/isnoop4/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Itachi38/BetProject"
@@ -4650,6 +5470,12 @@ url = "https://github.com/itsiiie/HackUme-Aptos"
 url = "https://github.com/Ivan-Shish/Aptos34"
 
 [[repo]]
+url = "https://github.com/iyash7/yash1"
+
+[[repo]]
+url = "https://github.com/iZ86/devmatch"
+
+[[repo]]
 url = "https://github.com/Jack-kelly-22/seam"
 
 [[repo]]
@@ -4659,7 +5485,19 @@ url = "https://github.com/jackygu2006/hello_aptos"
 url = "https://github.com/JacobHsu/pancake-frontend"
 
 [[repo]]
+url = "https://github.com/jagratichoudhry/bloke-chain"
+
+[[repo]]
 url = "https://github.com/Jagriti-roy/HackUEM2-Project"
+
+[[repo]]
+url = "https://github.com/Jagriti-roy/HackUEM2-Project.git"
+
+[[repo]]
+url = "https://github.com/JAhimaz/APU_dEVMatch_2024"
+
+[[repo]]
+url = "https://github.com/JAIRO5/aptogotchi"
 
 [[repo]]
 url = "https://github.com/JakeAve/birthday-bot-daap"
@@ -4677,10 +5515,19 @@ url = "https://github.com/jali31-bit/aptos-core"
 url = "https://github.com/Jalins/move"
 
 [[repo]]
+url = "https://github.com/Jaluv1702/aptogotchi"
+
+[[repo]]
 url = "https://github.com/jamiebones/bundlr-tutorial"
 
 [[repo]]
 url = "https://github.com/jamifunky/youtube-tutorials"
+
+[[repo]]
+url = "https://github.com/Jan-byt/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Janefrances9619/aptogotchi"
 
 [[repo]]
 url = "https://github.com/jash-j3/Blockchain_Quordle"
@@ -4695,10 +5542,25 @@ url = "https://github.com/jasonhedman/aptosino"
 url = "https://github.com/jasonhedman/aptosino-client"
 
 [[repo]]
+url = "https://github.com/Jatin-hu/Blockchain-jatin"
+
+[[repo]]
 url = "https://github.com/JayCodezeros/aptosgifting"
 
 [[repo]]
+url = "https://github.com/Jayfromthe13th/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Jayjeet1013/aptos_todolist_frontend"
+
+[[repo]]
+url = "https://github.com/jayxtechxi/Flappy-Bird-on-Aptos"
+
+[[repo]]
+url = "https://github.com/JazminRF/ECEVet"
+
+[[repo]]
+url = "https://github.com/JazminRF/ECEVet.git"
 
 [[repo]]
 url = "https://github.com/JB9623/aptos-lending-borrowing"
@@ -4756,6 +5618,24 @@ url = "https://github.com/jeetshah07/HackVerse-24"
 
 [[repo]]
 url = "https://github.com/jennifertrin/pollverse"
+
+[[repo]]
+url = "https://github.com/Jennybabie/aptogotchi"
+
+[[repo]]
+url = "https://github.com/jerydam/aptogotchi"
+
+[[repo]]
+url = "https://github.com/JetonDAO/jeton"
+
+[[repo]]
+url = "https://github.com/Jevenxje/aptogotchi"
+
+[[repo]]
+url = "https://github.com/jhakumar72/Aptos_Project"
+
+[[repo]]
+url = "https://github.com/jhetgaming/aptogotchi"
 
 [[repo]]
 url = "https://github.com/jian-guo-s/334566"
@@ -4854,7 +5734,22 @@ url = "https://github.com/jian-guo-s/to-dodd"
 url = "https://github.com/jian-guo-s/to-ds"
 
 [[repo]]
+url = "https://github.com/jianwei2102/remed"
+
+[[repo]]
+url = "https://github.com/jianwei2102/remed-aptos"
+
+[[repo]]
+url = "https://github.com/jimcoco/Aptos-DHP"
+
+[[repo]]
 url = "https://github.com/jimin2n7/Vgames-Dapp-Frontend"
+
+[[repo]]
+url = "https://github.com/jingjie00/gover-cover"
+
+[[repo]]
+url = "https://github.com/JingYuan0926/Devmatch"
 
 [[repo]]
 url = "https://github.com/jinmel/ethtokyo2023"
@@ -4867,6 +5762,9 @@ url = "https://github.com/jjimgo/client_move"
 
 [[repo]]
 url = "https://github.com/jjwygjj/aptos-codecat"
+
+[[repo]]
+url = "https://github.com/jlamont12/aptogotchi"
 
 [[repo]]
 url = "https://github.com/jlvihv/aptos-1000"
@@ -4887,6 +5785,9 @@ url = "https://github.com/jlvihv/aptos-62"
 url = "https://github.com/jm-ds/aptos-core"
 
 [[repo]]
+url = "https://github.com/jms-h/aptogotchi"
+
+[[repo]]
 url = "https://github.com/jncsw/aptos-core"
 
 [[repo]]
@@ -4894,6 +5795,12 @@ url = "https://github.com/joeetwork/buidl_app"
 
 [[repo]]
 url = "https://github.com/johannafransn/X-Chain-Wallet-Connector"
+
+[[repo]]
+url = "https://github.com/JohnnyBravo21/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Johnnysoltan/aptogotchi"
 
 [[repo]]
 url = "https://github.com/JOJOGOUP/aptos-coin"
@@ -4926,6 +5833,18 @@ url = "https://github.com/jowenshaw/aptos-core"
 url = "https://github.com/jowenshaw/CrossChain-Router"
 
 [[repo]]
+url = "https://github.com/Joysetiawan2/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Joywin2412/EduChainHackathon"
+
+[[repo]]
+url = "https://github.com/jrnature/proyecto_aptos"
+
+[[repo]]
+url = "https://github.com/jrnature/proyecto_aptos.git"
+
+[[repo]]
 url = "https://github.com/JSHan94/dex-exercise"
 
 [[repo]]
@@ -4939,6 +5858,9 @@ url = "https://github.com/Jsoooooooo/token-stake-contract"
 
 [[repo]]
 url = "https://github.com/jsweeneyguy/blockWork"
+
+[[repo]]
+url = "https://github.com/ju3tin/aptogotchi"
 
 [[repo]]
 url = "https://github.com/judithjr/try-dex"
@@ -5019,10 +5941,22 @@ url = "https://github.com/K-Pomian/overmind-task"
 url = "https://github.com/K-Pomian/tutorial"
 
 [[repo]]
+url = "https://github.com/Kaalvairab1/aptogotchi"
+
+[[repo]]
 url = "https://github.com/kaasikodes/race-to-keys--final-stretch-clm9hq1vi0004ml08tekh93xk"
 
 [[repo]]
 url = "https://github.com/Kabie/aptos-core"
+
+[[repo]]
+url = "https://github.com/kade-net/.github"
+
+[[repo]]
+url = "https://github.com/kae33-psb/aptogotchi"
+
+[[repo]]
+url = "https://github.com/kaif0682/blockchain-kaif"
 
 [[repo]]
 url = "https://github.com/Kailora/quest"
@@ -5031,13 +5965,28 @@ url = "https://github.com/Kailora/quest"
 url = "https://github.com/kairoski03/ticket"
 
 [[repo]]
+url = "https://github.com/Kaiz404/green-points"
+
+[[repo]]
+url = "https://github.com/kalbroni7/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Kali-Decoder/Move_Roulette"
+
+[[repo]]
+url = "https://github.com/kaligraphy197/aptogotchi"
 
 [[repo]]
 url = "https://github.com/kalisdandi01/overmind"
 
 [[repo]]
+url = "https://github.com/Kallat94/aptogotchi"
+
+[[repo]]
 url = "https://github.com/kalpithasv/CounterApp-Aptos"
+
+[[repo]]
+url = "https://github.com/kamalbuilds/AptosManager"
 
 [[repo]]
 url = "https://github.com/Kan090808/trust-web3-provider"
@@ -5052,7 +6001,19 @@ url = "https://github.com/kanalabs/trade-implementation"
 url = "https://github.com/kanazaya74Raccon/web3auth-next"
 
 [[repo]]
+url = "https://github.com/Kanha76/Blockchain_Kanha"
+
+[[repo]]
 url = "https://github.com/KanurkarPrateek/Aptos-Winter-School"
+
+[[repo]]
+url = "https://github.com/Kany210689/aptogotchi"
+
+[[repo]]
+url = "https://github.com/kapilsahuco/Blockchain-kapil"
+
+[[repo]]
+url = "https://github.com/Karanagarwal12/spheron-aptos-hackathon"
 
 [[repo]]
 url = "https://github.com/karthigs24/aptos_staking"
@@ -5082,6 +6043,9 @@ url = "https://github.com/kay404/My-collection"
 url = "https://github.com/kayacrypto/L0"
 
 [[repo]]
+url = "https://github.com/Kaymaravou/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Kazama-DeFi/kazama-frontend"
 
 [[repo]]
@@ -5098,6 +6062,9 @@ url = "https://github.com/Keepix-labs/Keepix.Wallets.aptos"
 
 [[repo]]
 url = "https://github.com/keepresolve/Blockchain"
+
+[[repo]]
+url = "https://github.com/kefirchik10/aptogotchi"
 
 [[repo]]
 url = "https://github.com/kei0301/frontend"
@@ -5118,6 +6085,9 @@ url = "https://github.com/kenzzz10/balance-apt"
 url = "https://github.com/kepler-homes/kepler-aptos-contract"
 
 [[repo]]
+url = "https://github.com/Kerasaktilama/aptogotchi"
+
+[[repo]]
 url = "https://github.com/kerberos727/pancake-frontend-develop"
 
 [[repo]]
@@ -5128,6 +6098,9 @@ url = "https://github.com/Keshav5173/neurominds49"
 
 [[repo]]
 url = "https://github.com/kevin-kabore/first-aptos-dapp"
+
+[[repo]]
+url = "https://github.com/Kevinator777/aptogotchi"
 
 [[repo]]
 url = "https://github.com/kevinkuo0320/Aptos_Meow"
@@ -5151,6 +6124,9 @@ url = "https://github.com/kfodkafkasf/aptoz"
 url = "https://github.com/kfodkafkasf/asfasfqq"
 
 [[repo]]
+url = "https://github.com/khaledGuedria17/splited"
+
+[[repo]]
 url = "https://github.com/KhalilAsghar544/Pancake-frontend-main"
 
 [[repo]]
@@ -5160,10 +6136,28 @@ url = "https://github.com/KhalilJouaneh/coin-flip-aptos"
 url = "https://github.com/khanhcongpruj123/hello-aptos"
 
 [[repo]]
+url = "https://github.com/Khanira2001/HACKATHON"
+
+[[repo]]
+url = "https://github.com/khanjannat/aptogotchi"
+
+[[repo]]
+url = "https://github.com/khoai81vnn/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Khoaivn81/aptogotchi"
+
+[[repo]]
 url = "https://github.com/khushi-parikh/inter-iit-blockchain"
 
 [[repo]]
+url = "https://github.com/KidDOso/aptogotchi"
+
+[[repo]]
 url = "https://github.com/kiingxo/aptos-degenomics-token"
+
+[[repo]]
+url = "https://github.com/Kiiojoel/aptogotchi"
 
 [[repo]]
 url = "https://github.com/killerburn69/vgames"
@@ -5217,6 +6211,9 @@ url = "https://github.com/knwtechs/aptos-staking-contract"
 url = "https://github.com/Koeding/NFT-example"
 
 [[repo]]
+url = "https://github.com/kohli-nk/Public-Opinion-Polls"
+
+[[repo]]
 url = "https://github.com/kopano1/kopano-overmind-quest"
 
 [[repo]]
@@ -5224,6 +6221,12 @@ url = "https://github.com/kotalco/community-api"
 
 [[repo]]
 url = "https://github.com/kotalco/kotal"
+
+[[repo]]
+url = "https://github.com/kpx001/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Kr-ishna2677/MICRO-INSURANCE"
 
 [[repo]]
 url = "https://github.com/Krapsteerr3/aptos"
@@ -5238,10 +6241,16 @@ url = "https://github.com/Krishnacore/aptos-chrome-extension"
 url = "https://github.com/Krishnacore/aptos-core"
 
 [[repo]]
+url = "https://github.com/krishnavarma2304/aptos-project"
+
+[[repo]]
 url = "https://github.com/kristinatub/econia-frontend"
 
 [[repo]]
 url = "https://github.com/KrokoYR/aptos-core"
+
+[[repo]]
+url = "https://github.com/KryptoNights/nexus-pay"
 
 [[repo]]
 url = "https://github.com/ksarovar/APTOS_BLOCKCHAIN"
@@ -5259,6 +6268,18 @@ url = "https://github.com/KSwitch1303/superTeam2"
 url = "https://github.com/KThe1ne/aptos"
 
 [[repo]]
+url = "https://github.com/kul123kul/aptos-project"
+
+[[repo]]
+url = "https://github.com/Kuldeep10498/Calculator-dApp"
+
+[[repo]]
+url = "https://github.com/kunal649/Rental-Agreements-and-Deposits-.git"
+
+[[repo]]
+url = "https://github.com/kundanmalviya788/Kundan"
+
+[[repo]]
 url = "https://github.com/KunPengRen/aptos-dapp-demo"
 
 [[repo]]
@@ -5268,6 +6289,12 @@ url = "https://github.com/KunPengRen/wormhole-token"
 url = "https://github.com/kush2863/Evently"
 
 [[repo]]
+url = "https://github.com/kvars1977/aptogotchi"
+
+[[repo]]
+url = "https://github.com/kve1990/aptogotchi"
+
+[[repo]]
 url = "https://github.com/kvenus-uj/aptos-nft-marketplace"
 
 [[repo]]
@@ -5275,6 +6302,12 @@ url = "https://github.com/kvenus-uj/aptos-wallet-sample"
 
 [[repo]]
 url = "https://github.com/kvenus-uj/coin-flip-aptos"
+
+[[repo]]
+url = "https://github.com/kvngfx-art/aptogotchi"
+
+[[repo]]
+url = "https://github.com/KweseBrowntv/aptogotchi"
 
 [[repo]]
 url = "https://github.com/kycdao/core-sdk"
@@ -5322,6 +6355,18 @@ url = "https://github.com/labscommunity/arweavekit"
 url = "https://github.com/labscommunity/protocol-land-sync"
 
 [[repo]]
+url = "https://github.com/Laikaiyong/Creddy"
+
+[[repo]]
+url = "https://github.com/Lakshya-KR/Web3-Project"
+
+[[repo]]
+url = "https://github.com/lakshyashishir/AgentSpace"
+
+[[repo]]
+url = "https://github.com/Lalsha40/aptogotchi"
+
+[[repo]]
 url = "https://github.com/laptos-io/laptos-frontend"
 
 [[repo]]
@@ -5329,6 +6374,9 @@ url = "https://github.com/larry-aptos/thegame"
 
 [[repo]]
 url = "https://github.com/lastrust/nft-marketplace-boilerplate"
+
+[[repo]]
+url = "https://github.com/lausuarez02/dumbtransfersAI"
 
 [[repo]]
 url = "https://github.com/LawsonGraham/martian-demo"
@@ -5379,6 +6427,9 @@ url = "https://github.com/LeetheRanger/Fe"
 url = "https://github.com/Lefgk/pancaketest1"
 
 [[repo]]
+url = "https://github.com/lenak88/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Lenmbugua/overmind-"
 
 [[repo]]
@@ -5422,6 +6473,9 @@ url = "https://github.com/levanthanh-ptit/aptos-practice"
 
 [[repo]]
 url = "https://github.com/LevenSton/Rare-Move"
+
+[[repo]]
+url = "https://github.com/Levi0804/token-launchpad"
 
 [[repo]]
 url = "https://github.com/levicook/hello-aptos"
@@ -5526,6 +6580,9 @@ url = "https://github.com/lineCode/aptos-core"
 url = "https://github.com/lingering/sss"
 
 [[repo]]
+url = "https://github.com/linguify/StudyScholarships"
+
+[[repo]]
 url = "https://github.com/linnefromice/aptos_practice_first"
 
 [[repo]]
@@ -5557,6 +6614,9 @@ url = "https://github.com/lixiang6630/aptos-contracts-annotated"
 
 [[repo]]
 url = "https://github.com/lkhgan/over-network-pt-2"
+
+[[repo]]
+url = "https://github.com/lokeshwaran100/aptolize"
 
 [[repo]]
 url = "https://github.com/lollobene/AlgoMove"
@@ -5625,6 +6685,12 @@ url = "https://github.com/luckyturtle/ARCO"
 url = "https://github.com/LuCrypto/hubCryptoReact"
 
 [[repo]]
+url = "https://github.com/lucyy21/project1"
+
+[[repo]]
+url = "https://github.com/LufyOne/aptogotchi"
+
+[[repo]]
 url = "https://github.com/lugondev/sample-move-learning"
 
 [[repo]]
@@ -5646,6 +6712,9 @@ url = "https://github.com/lukecd/view-from-my-window"
 url = "https://github.com/Luongxduc/aptos-sdk-example"
 
 [[repo]]
+url = "https://github.com/Lutfi002/aptogotchi"
+
+[[repo]]
 url = "https://github.com/luuphuc6297/dex-swap-clone"
 
 [[repo]]
@@ -5664,7 +6733,13 @@ url = "https://github.com/Lyagushe4ka/cheap-aptos"
 url = "https://github.com/lyyhc/aptos-core"
 
 [[repo]]
+url = "https://github.com/M-ayank2005/Carryaptos"
+
+[[repo]]
 url = "https://github.com/M4VI/Aptos-Coin"
+
+[[repo]]
+url = "https://github.com/Maagztech/aptos-core"
 
 [[repo]]
 url = "https://github.com/machikado-network/machikado.network"
@@ -5674,6 +6749,9 @@ url = "https://github.com/machikado-network/website"
 
 [[repo]]
 url = "https://github.com/machinefi/o3-ws-demo-template"
+
+[[repo]]
+url = "https://github.com/madanmohan2005/Aptos-"
 
 [[repo]]
 url = "https://github.com/MadhusreeBera/counter_dapp"
@@ -5706,6 +6784,9 @@ url = "https://github.com/magnum6actual/aptos-core"
 url = "https://github.com/magnum6actual/Aptos-Tutorial"
 
 [[repo]]
+url = "https://github.com/mahardiprakoso/aptogotchi"
+
+[[repo]]
 url = "https://github.com/mahdi-bn/aptos-core"
 
 [[repo]]
@@ -5721,6 +6802,9 @@ url = "https://github.com/MahRukhDev/MOONSHARES"
 url = "https://github.com/Maihihi/aptos-sdk-example"
 
 [[repo]]
+url = "https://github.com/MAIRAJALI0313/aptogotchi"
+
+[[repo]]
 url = "https://github.com/mak925/aptos-swap"
 
 [[repo]]
@@ -5728,6 +6812,9 @@ url = "https://github.com/Mallikarjun362/on-chain-radio"
 
 [[repo]]
 url = "https://github.com/malo-dev/arweave"
+
+[[repo]]
+url = "https://github.com/MAMoon2405/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Mamoru-Foundation/contracts"
@@ -5751,13 +6838,28 @@ url = "https://github.com/Manav0910/overmind"
 url = "https://github.com/mandarini/axl-demo"
 
 [[repo]]
+url = "https://github.com/mangrus/aptogotchi"
+
+[[repo]]
 url = "https://github.com/manifoldfinance/mev-proxy"
+
+[[repo]]
+url = "https://github.com/manish0d31/blockchain_manish"
+
+[[repo]]
+url = "https://github.com/Manishk5507/AdStake"
 
 [[repo]]
 url = "https://github.com/Manmohan998/code-Xperts-hackuem"
 
 [[repo]]
 url = "https://github.com/ManojKumarPatnaik/app-monorepo-onekey"
+
+[[repo]]
+url = "https://github.com/manshanagar/blockchain_mansa"
+
+[[repo]]
+url = "https://github.com/Manukuswaha/Aptos-project"
 
 [[repo]]
 url = "https://github.com/mapbased/aptos-core"
@@ -5788,6 +6890,9 @@ url = "https://github.com/mark-antony1/move-baseline"
 
 [[repo]]
 url = "https://github.com/MarkDuLJ/coinproject"
+
+[[repo]]
+url = "https://github.com/Markfavoriteiii29/aptogotchi"
 
 [[repo]]
 url = "https://github.com/marotipatre/Aptos-winter-school-challenge"
@@ -5833,6 +6938,12 @@ url = "https://github.com/mason0510/movefuns"
 
 [[repo]]
 url = "https://github.com/mason0510/Web3-dApp-Camp"
+
+[[repo]]
+url = "https://github.com/masteraman148/blockchain2"
+
+[[repo]]
+url = "https://github.com/MasteraSnackin/aptogotchi"
 
 [[repo]]
 url = "https://github.com/mastervectormaster/Aptos-NFT"
@@ -5949,6 +7060,9 @@ url = "https://github.com/Mean-Finance/defillama-server"
 url = "https://github.com/Megadev-OU/coinsender_aptos"
 
 [[repo]]
+url = "https://github.com/Meghapatidar06/megha1project"
+
+[[repo]]
 url = "https://github.com/Megumiiiiii/kesskouD"
 
 [[repo]]
@@ -5980,6 +7094,9 @@ url = "https://github.com/meowment/testnet_tutorial"
 
 [[repo]]
 url = "https://github.com/Mercurius-Club/MercAptos"
+
+[[repo]]
+url = "https://github.com/MergeZ/mergez-web-app"
 
 [[repo]]
 url = "https://github.com/merkle-dev/merkle-contract"
@@ -6021,6 +7138,15 @@ url = "https://github.com/metazoa-labs/anima"
 url = "https://github.com/methodnumber13/aptos-scripts"
 
 [[repo]]
+url = "https://github.com/mfurkon/aptogotchi"
+
+[[repo]]
+url = "https://github.com/MianUmar77/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Mibrahim2450/aptogotchi"
+
+[[repo]]
 url = "https://github.com/MichaelbjordansHusband/aptos-core"
 
 [[repo]]
@@ -6045,10 +7171,16 @@ url = "https://github.com/microgift/microgift"
 url = "https://github.com/MigoSwapDEX/Landing-PageTest"
 
 [[repo]]
+url = "https://github.com/miguelzintos/ChainMateAptos"
+
+[[repo]]
 url = "https://github.com/mihalchukdenis/aptos-core"
 
 [[repo]]
 url = "https://github.com/mihir1739/CounterSmartContract"
+
+[[repo]]
+url = "https://github.com/mikeansdk/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Miketalent/DSocialMedia"
@@ -6099,6 +7231,9 @@ url = "https://github.com/mirage-protocol/sdk"
 url = "https://github.com/mirage-xyz/aptos-sdk"
 
 [[repo]]
+url = "https://github.com/miscsamchris/IdenTicket"
+
+[[repo]]
 url = "https://github.com/misha94/misha94-aptosphants-mint-site"
 
 [[repo]]
@@ -6111,16 +7246,31 @@ url = "https://github.com/miskollc/oollet-web-example"
 url = "https://github.com/MistDAO/Sui-Ecosystem"
 
 [[repo]]
+url = "https://github.com/mivickkylove26/aptogotchi"
+
+[[repo]]
 url = "https://github.com/miyatakoji/bet-ondo"
 
 [[repo]]
+url = "https://github.com/Mizzytohblaq/aptogotchi"
+
+[[repo]]
 url = "https://github.com/mjzuppe/urchin-webapp"
+
+[[repo]]
+url = "https://github.com/MKJTV/aptogotchi"
 
 [[repo]]
 url = "https://github.com/mkurnikov/aptos-core"
 
 [[repo]]
 url = "https://github.com/mkurnikov/aptos-templates"
+
+[[repo]]
+url = "https://github.com/mnish-kumar/Aptos-Project"
+
+[[repo]]
+url = "https://github.com/MoAbdelfatah/aptogotchi"
 
 [[repo]]
 url = "https://github.com/mochaccinohub/pay-me-a-river-remastered"
@@ -6184,6 +7334,12 @@ url = "https://github.com/mohaijiang/test_aptos_staking"
 
 [[repo]]
 url = "https://github.com/mohaijiang/test_aptos_vesting"
+
+[[repo]]
+url = "https://github.com/Mohamed0I/aptogotchi"
+
+[[repo]]
+url = "https://github.com/MohammadFaizKhan/blockchain_faiz"
 
 [[repo]]
 url = "https://github.com/mohammed-najib/aptos-first-dapp"
@@ -6285,6 +7441,9 @@ url = "https://github.com/MoralisWeb3/Moralis-JS-SDK"
 url = "https://github.com/MoralisWeb3/youtube-tutorials"
 
 [[repo]]
+url = "https://github.com/Morgananyula5/APTOS-GAME"
+
+[[repo]]
 url = "https://github.com/Morgoth-the-great/adasd"
 
 [[repo]]
@@ -6307,6 +7466,9 @@ url = "https://github.com/MosquitosFinanceOfficial/masterchef-contract"
 
 [[repo]]
 url = "https://github.com/MosquitosFinanceOfficial/presale-contract"
+
+[[repo]]
+url = "https://github.com/Mostafasto/aptogotchi"
 
 [[repo]]
 url = "https://github.com/motoko9/aptos-program-library"
@@ -6381,6 +7543,9 @@ url = "https://github.com/movefuns/0to1swap"
 url = "https://github.com/movefuns/movecraft"
 
 [[repo]]
+url = "https://github.com/Movement-Hacks/tap-game"
+
+[[repo]]
 url = "https://github.com/movementlabsxyz/M1"
 
 [[repo]]
@@ -6441,6 +7606,15 @@ url = "https://github.com/mrgnlabs/switchboard"
 url = "https://github.com/mrincredibletx/hackuem2.0"
 
 [[repo]]
+url = "https://github.com/mrkeshav-05/Spheron-Hackathon"
+
+[[repo]]
+url = "https://github.com/MrNacho369/aptogotchi"
+
+[[repo]]
+url = "https://github.com/MrSang84/aptogotchi"
+
+[[repo]]
 url = "https://github.com/MrSharpp/pay-me-a-river-remastered"
 
 [[repo]]
@@ -6451,6 +7625,9 @@ url = "https://github.com/MsLolita/aptmap_minter"
 
 [[repo]]
 url = "https://github.com/MudDudes/aptos-core"
+
+[[repo]]
+url = "https://github.com/mukesh248/aptogotchi"
 
 [[repo]]
 url = "https://github.com/munanadi/aptos-hippo-example"
@@ -6475,6 +7652,9 @@ url = "https://github.com/mustafaaljadery/aptos-dapp-test"
 
 [[repo]]
 url = "https://github.com/mustafaaljadery/aptosjs"
+
+[[repo]]
+url = "https://github.com/Mwata1/aptogotchi"
 
 [[repo]]
 url = "https://github.com/mxnster/aptos-graffiti"
@@ -6516,7 +7696,22 @@ url = "https://github.com/mymiracle0118/Wallet-Web"
 url = "https://github.com/N-Fact/launchpad_ui"
 
 [[repo]]
+url = "https://github.com/n6085327/aptogotchi"
+
+[[repo]]
+url = "https://github.com/nakulh/AptosVPNbackend"
+
+[[repo]]
+url = "https://github.com/nakulh/AptosVPNUserApp"
+
+[[repo]]
+url = "https://github.com/Nalnoc/aptogotchi"
+
+[[repo]]
 url = "https://github.com/NamCaoDev/amm-dex-client"
+
+[[repo]]
+url = "https://github.com/Nancyparmar/Nancy"
 
 [[repo]]
 url = "https://github.com/nangongamo/aptos-dapp-example"
@@ -6588,6 +7783,12 @@ url = "https://github.com/nenad27dev/aptos_nft_market"
 url = "https://github.com/nenad27dev/morodex-frontend"
 
 [[repo]]
+url = "https://github.com/neogr3t/cosmic-RPS-on-APTOS"
+
+[[repo]]
+url = "https://github.com/Neoo0oo/aptogotchi"
+
+[[repo]]
 url = "https://github.com/neoul/apto_orm"
 
 [[repo]]
@@ -6595,6 +7796,9 @@ url = "https://github.com/neoul/aptos-txn-submit-performance-test"
 
 [[repo]]
 url = "https://github.com/NerdyDave2017/aptos-test-token"
+
+[[repo]]
+url = "https://github.com/net245tq/aptogotchi"
 
 [[repo]]
 url = "https://github.com/netcityzenid/pancake-frontend-develop"
@@ -6613,6 +7817,9 @@ url = "https://github.com/nftmoondogs/aptosdapp"
 
 [[repo]]
 url = "https://github.com/nftthon/nftthon-frontend"
+
+[[repo]]
+url = "https://github.com/nganzi/aptogotchi"
 
 [[repo]]
 url = "https://github.com/nhtera/pancake-swap-interface-v2"
@@ -6654,7 +7861,13 @@ url = "https://github.com/nightly-labs/aptos-web3-template"
 url = "https://github.com/nihat2065/apts"
 
 [[repo]]
+url = "https://github.com/Niidle/aptogotchi"
+
+[[repo]]
 url = "https://github.com/nikeihub/arco-protocol"
+
+[[repo]]
+url = "https://github.com/Nikhil515811/project-4"
 
 [[repo]]
 url = "https://github.com/nikmihalevich/martian_testnet_nft_minter"
@@ -6681,6 +7894,9 @@ url = "https://github.com/nimble-technology/nimble-xchain-contracts"
 url = "https://github.com/ninjadev0706/kingslife"
 
 [[repo]]
+url = "https://github.com/nishant-uxs/firstonblockchain"
+
+[[repo]]
 url = "https://github.com/nishant2253/nft-minting-dapp"
 
 [[repo]]
@@ -6699,6 +7915,9 @@ url = "https://github.com/Nistha-1/Vijay_1151-hackUEM"
 url = "https://github.com/Nith567/aptos"
 
 [[repo]]
+url = "https://github.com/Nitin3942/apt"
+
+[[repo]]
 url = "https://github.com/nixjs/wallet-adapter"
 
 [[repo]]
@@ -6709,6 +7928,12 @@ url = "https://github.com/njculpin/MTAPT"
 
 [[repo]]
 url = "https://github.com/nkypy/aptos-client"
+
+[[repo]]
+url = "https://github.com/nn023nn/aptogotchi"
+
+[[repo]]
+url = "https://github.com/noemi777/aptos-robin"
 
 [[repo]]
 url = "https://github.com/Nomis-cc/nomis-polygon-eco"
@@ -6738,6 +7963,12 @@ url = "https://github.com/NonceLabs/opto-wallet"
 url = "https://github.com/nonergodic/sdkv2"
 
 [[repo]]
+url = "https://github.com/Noork5232/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Norman2115/globuy"
+
+[[repo]]
 url = "https://github.com/notifi-network/notifi-aptos-example"
 
 [[repo]]
@@ -6745,6 +7976,9 @@ url = "https://github.com/notifi-network/notifi-sdk-ts"
 
 [[repo]]
 url = "https://github.com/notional-labs/cosmos-axelar-etherum"
+
+[[repo]]
+url = "https://github.com/notnowabhi/CertChain"
 
 [[repo]]
 url = "https://github.com/novance-ux/nova-corps-66-HackUEM"
@@ -6789,6 +8023,12 @@ url = "https://github.com/obsidianbtc/node_trading_sdk"
 url = "https://github.com/ocdbytes/APTOS_MOVE"
 
 [[repo]]
+url = "https://github.com/OctoTechHub/AptosArena"
+
+[[repo]]
+url = "https://github.com/Oguz1981/aptogotchi"
+
+[[repo]]
 url = "https://github.com/oh4mm/Dawn-of-Design"
 
 [[repo]]
@@ -6819,7 +8059,13 @@ url = "https://github.com/olefirenkoannaa/aptos-core"
 url = "https://github.com/OleksandrLiutko/kakaswap-frontend-main"
 
 [[repo]]
+url = "https://github.com/olukaemmanuelfelix/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Omkar-Ghongade/Move-It-With-Aptos"
+
+[[repo]]
+url = "https://github.com/Omkar-Ghongade/Zenithh"
 
 [[repo]]
 url = "https://github.com/OmniBTC/Aptos-AMM-swap"
@@ -6838,6 +8084,9 @@ url = "https://github.com/omsant02/Aptos-ToDoList"
 
 [[repo]]
 url = "https://github.com/onda-protocol/onda-social"
+
+[[repo]]
+url = "https://github.com/ondoprotocol/usdy-aptos"
 
 [[repo]]
 url = "https://github.com/OneKeyHQ/app-monorepo"
@@ -6915,6 +8164,9 @@ url = "https://github.com/ormishael10/Challenge"
 url = "https://github.com/OrphicProject/ukami-interface"
 
 [[repo]]
+url = "https://github.com/Osbcudj/aptogotchi"
+
+[[repo]]
 url = "https://github.com/oshied/protocol-forge"
 
 [[repo]]
@@ -6922,6 +8174,9 @@ url = "https://github.com/osmanbo/aptos-core"
 
 [[repo]]
 url = "https://github.com/ostrich-love/launchpool.ostrich.love"
+
+[[repo]]
+url = "https://github.com/otatase77/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Othent/warp-test-contracts"
@@ -7002,6 +8257,9 @@ url = "https://github.com/oxlime/aptos-core"
 url = "https://github.com/oyoops/tuna-contract"
 
 [[repo]]
+url = "https://github.com/ozo-vehe/aptos-nfters"
+
+[[repo]]
 url = "https://github.com/p-force/generate_wallets"
 
 [[repo]]
@@ -7012,6 +8270,9 @@ url = "https://github.com/p0p3yee/rust-aptos-token-client"
 
 [[repo]]
 url = "https://github.com/Pabitra969/StduentScholarshipDistribution"
+
+[[repo]]
+url = "https://github.com/Pabitra969/StduentScholarshipDistribution.git"
 
 [[repo]]
 url = "https://github.com/pakaplace/aptos-core"
@@ -7029,7 +8290,19 @@ url = "https://github.com/pancakeswap/pancake-frontend"
 url = "https://github.com/pancakeswap/token-list"
 
 [[repo]]
+url = "https://github.com/Pandeysal/aptos-project"
+
+[[repo]]
+url = "https://github.com/panoptisDev/octos-nftlending-aptos"
+
+[[repo]]
+url = "https://github.com/PanoraExchange/.github"
+
+[[repo]]
 url = "https://github.com/paradiso-io/dotoracle-aptos-contract"
+
+[[repo]]
+url = "https://github.com/ParadoxCode-Glitch/BlockChain-Aptos"
 
 [[repo]]
 url = "https://github.com/Parallel-news/Permacast-v2.5"
@@ -7050,6 +8323,12 @@ url = "https://github.com/parmarsameer/mint_nft"
 url = "https://github.com/passer-byzhang/aptos-merkle"
 
 [[repo]]
+url = "https://github.com/patelvishal1419/aptosproject1"
+
+[[repo]]
+url = "https://github.com/Patidarakshat31/demo_11"
+
+[[repo]]
 url = "https://github.com/patty111/Aptos"
 
 [[repo]]
@@ -7059,10 +8338,16 @@ url = "https://github.com/paulocrazy520/Pancake_Fork"
 url = "https://github.com/pavelSh-web/Test-next"
 
 [[repo]]
+url = "https://github.com/pawan5683/Aptos_Project"
+
+[[repo]]
 url = "https://github.com/PawanAK/aptos_lottery"
 
 [[repo]]
 url = "https://github.com/payswapdotorg/payswap"
+
+[[repo]]
+url = "https://github.com/Pazzo1983/aptogotchi"
 
 [[repo]]
 url = "https://github.com/PBillingsby/recaptcha-vouch"
@@ -7081,6 +8366,9 @@ url = "https://github.com/pectoraux/pan-develop"
 
 [[repo]]
 url = "https://github.com/pectoraux/pay8"
+
+[[repo]]
+url = "https://github.com/peejay-git/aptogotchi"
 
 [[repo]]
 url = "https://github.com/PeggyJV/yield-server"
@@ -7104,10 +8392,16 @@ url = "https://github.com/PeopleEquity/EquityWallet"
 url = "https://github.com/PeopleEquity/SDKs"
 
 [[repo]]
+url = "https://github.com/Pepapig-ui/aptogotchi"
+
+[[repo]]
 url = "https://github.com/pepes23/pepes"
 
 [[repo]]
 url = "https://github.com/pepes23/test-pan"
+
+[[repo]]
+url = "https://github.com/percy-sid/aptogotchi"
 
 [[repo]]
 url = "https://github.com/perionjames/yield-server"
@@ -7152,13 +8446,25 @@ url = "https://github.com/phanbinhgiang/init-node-typescript"
 url = "https://github.com/phem87/move-options"
 
 [[repo]]
+url = "https://github.com/phennie/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Pheonixrog/Decentralized_library"
+
+[[repo]]
 url = "https://github.com/phial3/aptos-core"
+
+[[repo]]
+url = "https://github.com/PhilippLevin/aptogotchi"
 
 [[repo]]
 url = "https://github.com/phillipedwards/aptos-core"
 
 [[repo]]
 url = "https://github.com/phongkhuu115/CrossCert"
+
+[[repo]]
+url = "https://github.com/phongtrancr/aptogotchi"
 
 [[repo]]
 url = "https://github.com/phuong23401/AptosBot"
@@ -7174,6 +8480,9 @@ url = "https://github.com/pich-k/onekey-wallet-x"
 
 [[repo]]
 url = "https://github.com/picklelabs-xyz/tijori"
+
+[[repo]]
+url = "https://github.com/Piehurt/aptogotchi"
 
 [[repo]]
 url = "https://github.com/piercetw/aptos-nft-cm-launch-production"
@@ -7197,16 +8506,28 @@ url = "https://github.com/PinkDiamond1/movefuns"
 url = "https://github.com/PinkDiamond1/spika"
 
 [[repo]]
+url = "https://github.com/Pintu-Kumar-1709/Aptos_projectt"
+
+[[repo]]
+url = "https://github.com/PioXRaV/aptogotchi"
+
+[[repo]]
 url = "https://github.com/pisuthd/legato-aptos"
 
 [[repo]]
 url = "https://github.com/PiyushKrRai/project1"
 
 [[repo]]
+url = "https://github.com/pizzaface1951/cga_aptos_integration"
+
+[[repo]]
 url = "https://github.com/pkrverma/verification-aptos"
 
 [[repo]]
 url = "https://github.com/planetarium/wncg-staking-interface"
+
+[[repo]]
+url = "https://github.com/platonicsocrates/aptogotchi"
 
 [[repo]]
 url = "https://github.com/plaxswap/plaxswap.github.io"
@@ -7224,6 +8545,9 @@ url = "https://github.com/plind-dm/simple-staking"
 url = "https://github.com/Pljas/Network-List"
 
 [[repo]]
+url = "https://github.com/Plkverma/blockchain_123"
+
+[[repo]]
 url = "https://github.com/Plor3r/wolfgame-contracts"
 
 [[repo]]
@@ -7237,6 +8561,12 @@ url = "https://github.com/plushkinv/pk-to-aptos-adress"
 
 [[repo]]
 url = "https://github.com/PlutoXGanz/Omni"
+
+[[repo]]
+url = "https://github.com/Pmket7373/aptogotchi"
+
+[[repo]]
+url = "https://github.com/poach2610/aptogotchi"
 
 [[repo]]
 url = "https://github.com/poker90102/app-monorepo"
@@ -7296,6 +8626,9 @@ url = "https://github.com/Pozzitron1337/aptos_fungible_token"
 url = "https://github.com/Pozzitron1337/move_global_counter"
 
 [[repo]]
+url = "https://github.com/pprachi06/Project-P"
+
+[[repo]]
 url = "https://github.com/pprogrammingg/aptos-todolist"
 
 [[repo]]
@@ -7311,6 +8644,12 @@ url = "https://github.com/pr0cf5/move-type-confusion-poc"
 url = "https://github.com/prachi-nagpal/lavaPrachi"
 
 [[repo]]
+url = "https://github.com/pradeepgami/devil"
+
+[[repo]]
+url = "https://github.com/prakashkumar76/aptos"
+
+[[repo]]
 url = "https://github.com/Pranav2456/Aptos-Winter-School"
 
 [[repo]]
@@ -7323,13 +8662,22 @@ url = "https://github.com/prasad-kumkar/capability-heist"
 url = "https://github.com/prasantaman/Project---3"
 
 [[repo]]
+url = "https://github.com/Prateek-2812/Issue-NFTs-as-verifiable-diplomas-for-graduates"
+
+[[repo]]
 url = "https://github.com/pratham-bhatnagar/aptos-time-capsule"
 
 [[repo]]
-url = "https://github.com/Pratham-Vishwakarma/DexApp"
+url = "https://github.com/Pratham-Vishwakarma/CryptiFlux"
+
+[[repo]]
+url = "https://github.com/Predator8412347/aptogotchi"
 
 [[repo]]
 url = "https://github.com/predyprotocol/defillama-server"
+
+[[repo]]
+url = "https://github.com/Priceless-P/BoxPeer.git"
 
 [[repo]]
 url = "https://github.com/priyanshu0463/Aptos"
@@ -7359,10 +8707,16 @@ url = "https://github.com/psico-mojo/aptos-explorer"
 url = "https://github.com/PSkinnerTech/my_aw_credapp"
 
 [[repo]]
+url = "https://github.com/PsycoS81/aptogotchi"
+
+[[repo]]
 url = "https://github.com/ptts1/aptos-core"
 
 [[repo]]
 url = "https://github.com/pu0238/decentralized-newspaper"
+
+[[repo]]
+url = "https://github.com/pualine/aptos_hack_swiftsend_mobile_app"
 
 [[repo]]
 url = "https://github.com/public-assembly/indexer"
@@ -7375,6 +8729,9 @@ url = "https://github.com/Pudgy-Ruby/AptosStaking"
 
 [[repo]]
 url = "https://github.com/PurpleSquirrelMedia/WORMHOME-SCAFFOLDING"
+
+[[repo]]
+url = "https://github.com/Purvidhaigude/purvi"
 
 [[repo]]
 url = "https://github.com/pwb1133/ggss"
@@ -7398,10 +8755,16 @@ url = "https://github.com/qazbekus/aptos"
 url = "https://github.com/qmicon/Aptos-Dapp"
 
 [[repo]]
+url = "https://github.com/qmini58/aptogotchi"
+
+[[repo]]
 url = "https://github.com/qpzm/aptos-ticket-tutorial"
 
 [[repo]]
 url = "https://github.com/qq976739120/aptos-multi-coin-send-tool"
+
+[[repo]]
+url = "https://github.com/Quadwinner/Blockchain-project"
 
 [[repo]]
 url = "https://github.com/quan612/riftly"
@@ -7413,10 +8776,16 @@ url = "https://github.com/quan612/riftly-admin"
 url = "https://github.com/QuangNguyenThanh/one-click-login-aptos-example"
 
 [[repo]]
+url = "https://github.com/quannguyen127/aptogotchi"
+
+[[repo]]
 url = "https://github.com/QuarryProtocol/carrara"
 
 [[repo]]
 url = "https://github.com/quartzrus/aptos-core"
+
+[[repo]]
+url = "https://github.com/questflowai/.github"
 
 [[repo]]
 url = "https://github.com/quiet-ocean/aptos-land"
@@ -7434,10 +8803,16 @@ url = "https://github.com/qwang98/Seren"
 url = "https://github.com/qwertey6/aptillians"
 
 [[repo]]
+url = "https://github.com/qwertyuiopasdfghjkxvbnm/Aptos"
+
+[[repo]]
 url = "https://github.com/r2moon/aptos-simple-vault"
 
 [[repo]]
 url = "https://github.com/R4j4t-Singh/vNFT-Marketplace"
+
+[[repo]]
+url = "https://github.com/r7nato/aptogotchi"
 
 [[repo]]
 url = "https://github.com/rachelchxn/olympihacks"
@@ -7452,16 +8827,40 @@ url = "https://github.com/rafales/aptos-contracts-annotated"
 url = "https://github.com/rahil8387/tech-squad-01-hackUEM"
 
 [[repo]]
+url = "https://github.com/rahil8387/tech-squad-01-hackUEM.git"
+
+[[repo]]
+url = "https://github.com/Rahul-Kushwaha-01/aptos"
+
+[[repo]]
+url = "https://github.com/Rahul7451/aptos-Project"
+
+[[repo]]
 url = "https://github.com/rahulkadvasara/CodeX-Aptos-Charity-and-Donation"
 
 [[repo]]
 url = "https://github.com/rahulkumarclg/Project"
 
 [[repo]]
+url = "https://github.com/rahulMPU/aptos_project"
+
+[[repo]]
 url = "https://github.com/rahulpatilcodeb/aptos-practice"
 
 [[repo]]
+url = "https://github.com/rainless123/aptogotchi"
+
+[[repo]]
+url = "https://github.com/rajat-svg/Secure-Online-Exam-"
+
+[[repo]]
+url = "https://github.com/Rajsingh2005-coder/APTOS-project"
+
+[[repo]]
 url = "https://github.com/raldblox/namespace"
+
+[[repo]]
+url = "https://github.com/Rama-sk/aptogotchi"
 
 [[repo]]
 url = "https://github.com/raohassansoc/Arietta-DEX"
@@ -7476,13 +8875,31 @@ url = "https://github.com/rareweave/tradeable-mintable-smartweave-nft"
 url = "https://github.com/rareweave/ui"
 
 [[repo]]
+url = "https://github.com/rarible/aptos-public-description"
+
+[[repo]]
+url = "https://github.com/Rashidkamalchp/aptosproject"
+
+[[repo]]
 url = "https://github.com/Raudoh/pancake-frontend"
+
+[[repo]]
+url = "https://github.com/Raunak567/MoveMint"
 
 [[repo]]
 url = "https://github.com/ravan8853558/cheak-star-22-hackUEM"
 
 [[repo]]
+url = "https://github.com/Ravi-Mk01/blockchain-ravi"
+
+[[repo]]
 url = "https://github.com/ravikant333/Aptos-sdk"
+
+[[repo]]
+url = "https://github.com/ravipatel701/block_ravi"
+
+[[repo]]
+url = "https://github.com/raykon1221/devmatch-aptos"
 
 [[repo]]
 url = "https://github.com/raznorabochiy/aptos-opt-in-direct-transfer"
@@ -7528,6 +8945,9 @@ url = "https://github.com/recentwinner/tigerswapfinal"
 
 [[repo]]
 url = "https://github.com/recentwinner/tigerswapfinalv1"
+
+[[repo]]
+url = "https://github.com/Reconnectai/Reconnect-AI-Front"
 
 [[repo]]
 url = "https://github.com/redamohamed19/overmind"
@@ -7584,6 +9004,12 @@ url = "https://github.com/RedDuck-Software/pancake-fork-pSwap"
 url = "https://github.com/redstone-finance/redstone-custom-urls-manifest-updater"
 
 [[repo]]
+url = "https://github.com/reetbatra/chronos-gambit"
+
+[[repo]]
+url = "https://github.com/reivajra1/aptogotchi"
+
+[[repo]]
 url = "https://github.com/RekaNetwork/reka_platform"
 
 [[repo]]
@@ -7597,6 +9023,9 @@ url = "https://github.com/repobali/swap-sdk"
 
 [[repo]]
 url = "https://github.com/ReqTimeout/aptoscatos"
+
+[[repo]]
+url = "https://github.com/ResonanceMarketing/aptogotchi"
 
 [[repo]]
 url = "https://github.com/revekkacode/LayerZero-Aptos-Contract"
@@ -7620,6 +9049,15 @@ url = "https://github.com/Ridwanba/token-list"
 url = "https://github.com/rimi-majumdar/hackuem2.0_aptos"
 
 [[repo]]
+url = "https://github.com/rishabhsingh444/aptos-project1"
+
+[[repo]]
+url = "https://github.com/Ritesh761/Aptosn-Project-"
+
+[[repo]]
+url = "https://github.com/ritik3060/aptos-project"
+
+[[repo]]
 url = "https://github.com/rizwanmoulvi/Aptos"
 
 [[repo]]
@@ -7635,7 +9073,13 @@ url = "https://github.com/rkmonarch/aptos_dapp"
 url = "https://github.com/rkmonarch/rigel_aptos"
 
 [[repo]]
+url = "https://github.com/rmaurya12/project-r"
+
+[[repo]]
 url = "https://github.com/rminami/aptos-lessons"
+
+[[repo]]
+url = "https://github.com/Ro5Star/aptogotchi"
 
 [[repo]]
 url = "https://github.com/robertxd30/aptos"
@@ -7644,10 +9088,16 @@ url = "https://github.com/robertxd30/aptos"
 url = "https://github.com/rocalex/managed-coins"
 
 [[repo]]
+url = "https://github.com/Rohanarora17/aptfund"
+
+[[repo]]
 url = "https://github.com/RohanKapurDEV/aptos-client-coin-transfer"
 
 [[repo]]
 url = "https://github.com/RohanShaikhh/pancake"
+
+[[repo]]
+url = "https://github.com/Rohezal42/aptogotchi"
 
 [[repo]]
 url = "https://github.com/rohit-710/Aptos-Farcaster-Frame"
@@ -7659,6 +9109,9 @@ url = "https://github.com/rohit-bhalerao-7/NFTDuel-Martian"
 url = "https://github.com/rohithkumar0369/kana-widget"
 
 [[repo]]
+url = "https://github.com/RohitRP22/aptos-project"
+
+[[repo]]
 url = "https://github.com/roman-prizrakjj/aptos-connect"
 
 [[repo]]
@@ -7666,6 +9119,9 @@ url = "https://github.com/romasamiilenko/aptos-core"
 
 [[repo]]
 url = "https://github.com/rondales/aptos-ts-sdk"
+
+[[repo]]
+url = "https://github.com/ronxronx/aptogotchi"
 
 [[repo]]
 url = "https://github.com/rooch-network/rooch"
@@ -7692,10 +9148,22 @@ url = "https://github.com/rootMUD/scaffold-aptos-examples"
 url = "https://github.com/roryoreilly/aptos-raw-transaction-builder"
 
 [[repo]]
+url = "https://github.com/rosemarbe/aptogotchi"
+
+[[repo]]
+url = "https://github.com/RoshniMalakar/aptos-project1"
+
+[[repo]]
 url = "https://github.com/rotcan/closest-match-aptos"
 
 [[repo]]
 url = "https://github.com/royvardhan/todo-move-aptos"
+
+[[repo]]
+url = "https://github.com/rpaltz/aptogotchi"
+
+[[repo]]
+url = "https://github.com/rstkey/various-smart-contracts"
 
 [[repo]]
 url = "https://github.com/rtmtree/football-fantasy-move-puzzle"
@@ -7704,13 +9172,25 @@ url = "https://github.com/rtmtree/football-fantasy-move-puzzle"
 url = "https://github.com/rtmtree/longshot-jackpot-contract"
 
 [[repo]]
+url = "https://github.com/RubenMss/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Rudra01a/Hackuem2-project"
+
+[[repo]]
+url = "https://github.com/Rudragehlot/blockchain_rudra"
 
 [[repo]]
 url = "https://github.com/RUDRAIndia/Xcoder31_aptos"
 
 [[repo]]
+url = "https://github.com/rumhymn/aptogotchi"
+
+[[repo]]
 url = "https://github.com/rupsaroyrr/hackuem2.0"
+
+[[repo]]
+url = "https://github.com/Rushan0408/aptos-rocks"
 
 [[repo]]
 url = "https://github.com/Rushikeshnimkar/Aptos-dreamstarter"
@@ -7749,10 +9229,16 @@ url = "https://github.com/RyoLinEth/swapDemo"
 url = "https://github.com/ryuheimat/aptos-simple-vault"
 
 [[repo]]
+url = "https://github.com/Ryusk2024/aptogotchi"
+
+[[repo]]
 url = "https://github.com/s-singh18/moovie"
 
 [[repo]]
 url = "https://github.com/S1ddh4rthaG/sudoAPTos"
+
+[[repo]]
+url = "https://github.com/Sa-ideveloper/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Sa7cez/addresses-generator"
@@ -7771,6 +9257,9 @@ url = "https://github.com/sabinss/warkade-module-test"
 
 [[repo]]
 url = "https://github.com/sabrenda/generate_aptos_wallets"
+
+[[repo]]
+url = "https://github.com/sachinkumar7783/aptosproject"
 
 [[repo]]
 url = "https://github.com/sadboy2910/sadboy"
@@ -7812,13 +9301,28 @@ url = "https://github.com/sagnik-create/hackuem_aptos"
 url = "https://github.com/sagniknandigit/fungible_token"
 
 [[repo]]
+url = "https://github.com/sahil1king/hackathon-bounty"
+
+[[repo]]
+url = "https://github.com/SahityaRoy/online-exam"
+
+[[repo]]
 url = "https://github.com/Saint-Diviner/Aptos-mint-contract"
 
 [[repo]]
 url = "https://github.com/Saint-Diviner/aptos-nft-marketplace"
 
 [[repo]]
+url = "https://github.com/Saint-II/aptogotchi"
+
+[[repo]]
 url = "https://github.com/saitonikko/aptos-vault"
+
+[[repo]]
+url = "https://github.com/sajjadkhattak123/aptogotchi"
+
+[[repo]]
+url = "https://github.com/sakib7674-Sk/aptogotchi"
 
 [[repo]]
 url = "https://github.com/sakuraverse-labs/punkninja"
@@ -7833,10 +9337,25 @@ url = "https://github.com/sallem-aptos/aptos-creator-studio-tools"
 url = "https://github.com/salsadamia15/typescript-aptos-layerzero"
 
 [[repo]]
+url = "https://github.com/Salwan0785/aptogotchi"
+
+[[repo]]
 url = "https://github.com/SamarendraGouda/Aptos-Inter-IIT-12.0"
 
 [[repo]]
 url = "https://github.com/samarthhapse/hackathon-1"
+
+[[repo]]
+url = "https://github.com/sameerkumarutn/sameerkumarutn"
+
+[[repo]]
+url = "https://github.com/samiksha288/blockchain_samiksha"
+
+[[repo]]
+url = "https://github.com/Samiralam90069/aptos"
+
+[[repo]]
+url = "https://github.com/sammeyy/aptogotchi"
 
 [[repo]]
 url = "https://github.com/samoPD/learn-move"
@@ -7854,13 +9373,31 @@ url = "https://github.com/SamTop-Solicy/move-vesting"
 url = "https://github.com/samuelvanderwaal/aptos-core"
 
 [[repo]]
+url = "https://github.com/SamVerse/Learning-Platform"
+
+[[repo]]
+url = "https://github.com/sangnhe222/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Sanjana-hr/aptosproject"
+
+[[repo]]
+url = "https://github.com/Sanjna62/project-s"
+
+[[repo]]
 url = "https://github.com/sankalp250/Aptos_uem"
+
+[[repo]]
+url = "https://github.com/Sanketbagh/blockchain_sanket"
 
 [[repo]]
 url = "https://github.com/sanketdofe/pay-me-a-river-remastered"
 
 [[repo]]
 url = "https://github.com/sappysealsz/telos-bridge"
+
+[[repo]]
+url = "https://github.com/saqtibima/aptogotchi"
 
 [[repo]]
 url = "https://github.com/sarcophagus-org/sarcophagus-v2-archaeologist-service"
@@ -7902,6 +9439,9 @@ url = "https://github.com/satay-protocol/tortuga-staking"
 url = "https://github.com/satay-protocol/zap-satay-aptos"
 
 [[repo]]
+url = "https://github.com/Satgai68/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Saturn-Radius/aptos-vault"
 
 [[repo]]
@@ -7911,6 +9451,15 @@ url = "https://github.com/Saturn-Radius/oracle-aptos"
 url = "https://github.com/Satyam1616/Aptos---NFT-MarketPlace"
 
 [[repo]]
+url = "https://github.com/satyamhatkar/apt"
+
+[[repo]]
+url = "https://github.com/satyamjee/aptopsproject"
+
+[[repo]]
+url = "https://github.com/SatyanshMittal/Knight-Fall"
+
+[[repo]]
 url = "https://github.com/satyasai69/ibullswap-ui"
 
 [[repo]]
@@ -7918,6 +9467,12 @@ url = "https://github.com/satyvm/aptostodolist"
 
 [[repo]]
 url = "https://github.com/savchenkoartema/aptos-core"
+
+[[repo]]
+url = "https://github.com/Sayaya05/aptogotchi"
+
+[[repo]]
+url = "https://github.com/sayyamsaif/aptogotchi"
 
 [[repo]]
 url = "https://github.com/sblackshear/movemate"
@@ -8010,6 +9565,9 @@ url = "https://github.com/sentioxyz/sentio-sdk"
 url = "https://github.com/sentioxyz/typemove"
 
 [[repo]]
+url = "https://github.com/sepannol86/aptogotchi"
+
+[[repo]]
 url = "https://github.com/SepehrHasanabadi/pay-me-a-river"
 
 [[repo]]
@@ -8022,10 +9580,22 @@ url = "https://github.com/serCJm/aptos"
 url = "https://github.com/sergeycommit/aptos_demoversion"
 
 [[repo]]
+url = "https://github.com/sergiotechx/zona3-aptos-tipme"
+
+[[repo]]
 url = "https://github.com/SerhatCelikk/Aptos-Doges"
 
 [[repo]]
 url = "https://github.com/SerhiiPytskyi/aptos-core"
+
+[[repo]]
+url = "https://github.com/Shadabalam1/aptos-project"
+
+[[repo]]
+url = "https://github.com/shadmanshafi23/Aptos-Project"
+
+[[repo]]
+url = "https://github.com/shahidamzad/Aptus--project"
 
 [[repo]]
 url = "https://github.com/shahzeb8285/canaryx-ui"
@@ -8035,6 +9605,12 @@ url = "https://github.com/shahzeb8285/pancake-swap"
 
 [[repo]]
 url = "https://github.com/shankarpm/APTOS"
+
+[[repo]]
+url = "https://github.com/Shantanu1308/Decentralized-Job-Referrals"
+
+[[repo]]
+url = "https://github.com/Shantvart/aptogotchi"
 
 [[repo]]
 url = "https://github.com/shanxuanchen/muse-time-app-move"
@@ -8076,6 +9652,12 @@ url = "https://github.com/shaokun11/test-subnet-v2"
 url = "https://github.com/shaokun11/testmove"
 
 [[repo]]
+url = "https://github.com/sharvan5277/Blockchain_project"
+
+[[repo]]
+url = "https://github.com/Shashikantray2292/aptosproject"
+
+[[repo]]
 url = "https://github.com/shayansanjideh/aptos-amm"
 
 [[repo]]
@@ -8097,7 +9679,13 @@ url = "https://github.com/shibacrypt/upgradeable-coin"
 url = "https://github.com/ShibagniBhattacharjee06/pradyog-HackUEM"
 
 [[repo]]
+url = "https://github.com/ShibagniBhattacharjee06/pradyog-HackUEM.git"
+
+[[repo]]
 url = "https://github.com/shikhar2817/over-network-pt-2-clnxwc0fc001cle08eco0wv77"
+
+[[repo]]
+url = "https://github.com/shinamicorp/shinami-examples"
 
 [[repo]]
 url = "https://github.com/ShiningRay/mint-fungible-spl"
@@ -8121,6 +9709,9 @@ url = "https://github.com/Shitikyan/aptos-amm"
 url = "https://github.com/ShivankK26/ToDoList-dApp-Aptos"
 
 [[repo]]
+url = "https://github.com/shivendra5841111/Aptos-Project"
+
+[[repo]]
 url = "https://github.com/ShivRaiGithub/Aptos_Dques_project"
 
 [[repo]]
@@ -8136,10 +9727,19 @@ url = "https://github.com/shreshanks/move-aptos"
 url = "https://github.com/Shrey123ansh/Aptos-Practice"
 
 [[repo]]
+url = "https://github.com/shuklamaneesh23/Orpheus"
+
+[[repo]]
 url = "https://github.com/Shyam-12/aptos-challenge-counter-game"
 
 [[repo]]
 url = "https://github.com/shyam0508060409087/HackUEM-Final-Project"
+
+[[repo]]
+url = "https://github.com/Siddik-Shah/Test"
+
+[[repo]]
+url = "https://github.com/sidraali9131/aptosproject"
 
 [[repo]]
 url = "https://github.com/Sigma2345/Aptofy"
@@ -8160,6 +9760,12 @@ url = "https://github.com/simran487/simran_aptos_code"
 url = "https://github.com/simsekgokhan/txs"
 
 [[repo]]
+url = "https://github.com/sinanalturk/aptogotchi"
+
+[[repo]]
+url = "https://github.com/singhsameer01/count-fi"
+
+[[repo]]
 url = "https://github.com/sinugrepo/aptos"
 
 [[repo]]
@@ -8173,6 +9779,9 @@ url = "https://github.com/SirDaniell/Race-to-keys"
 
 [[repo]]
 url = "https://github.com/SiriusA015/Next-Hexa"
+
+[[repo]]
+url = "https://github.com/Sirohi0/AptosWeb3"
 
 [[repo]]
 url = "https://github.com/sirouk/vendorized-diem-test"
@@ -8200,6 +9809,21 @@ url = "https://github.com/SKADI-nft/skadi-blockchain-marketplace"
 
 [[repo]]
 url = "https://github.com/skchang0710/aptos-research"
+
+[[repo]]
+url = "https://github.com/skid-kid/WordEarn"
+
+[[repo]]
+url = "https://github.com/Skooyo/deducation"
+
+[[repo]]
+url = "https://github.com/SKPHxAI/aptogotchi"
+
+[[repo]]
+url = "https://github.com/skunal3318/nft-marketplace-using-aptos"
+
+[[repo]]
+url = "https://github.com/Sleepless1234/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Slitthe/candy-test"
@@ -8247,7 +9871,16 @@ url = "https://github.com/SmartWebstar/aptos-core"
 url = "https://github.com/SmartWebstar/aptos-networks"
 
 [[repo]]
+url = "https://github.com/smonk17/aptogotchi"
+
+[[repo]]
 url = "https://github.com/snapdao/aptossnap"
+
+[[repo]]
+url = "https://github.com/Snehagupta1907/Reels-Fi"
+
+[[repo]]
+url = "https://github.com/SniperShqrk/aptogotchi"
 
 [[repo]]
 url = "https://github.com/snowflake-so/move-cron-parser"
@@ -8304,6 +9937,9 @@ url = "https://github.com/sonarwatch/token-lists"
 url = "https://github.com/songcheng1030/hexa-finity"
 
 [[repo]]
+url = "https://github.com/sonit210/aptosproject"
+
+[[repo]]
 url = "https://github.com/sonne-finance/yield-server"
 
 [[repo]]
@@ -8337,7 +9973,13 @@ url = "https://github.com/Sotatek-TruongNguyen2/Pancake-clone"
 url = "https://github.com/Souhail99/broker_it_yourself"
 
 [[repo]]
+url = "https://github.com/soulking62/aptogotchi"
+
+[[repo]]
 url = "https://github.com/Soumyadeep2006/soumyadeep_2006_hackUEM"
+
+[[repo]]
+url = "https://github.com/Soundbwoiidynasty/aptogotchi"
 
 [[repo]]
 url = "https://github.com/soura2004/aptos-dictionary-contract"
@@ -8400,6 +10042,9 @@ url = "https://github.com/starcoinorg/starmask-extension"
 url = "https://github.com/stardust-gg/ts-waas-server-sdk"
 
 [[repo]]
+url = "https://github.com/Starhopperr/aptosproj"
+
+[[repo]]
 url = "https://github.com/SteMak/aptos_coin_storage"
 
 [[repo]]
@@ -8445,6 +10090,9 @@ url = "https://github.com/StrongDonald/aptos-NFTmarketplace-"
 url = "https://github.com/StrongDonald/Aptos-Swap-"
 
 [[repo]]
+url = "https://github.com/Student-anandtiwari/aptosproject"
+
+[[repo]]
 url = "https://github.com/Stumble/aptos-core"
 
 [[repo]]
@@ -8458,6 +10106,15 @@ url = "https://github.com/styu12/Aptos_Hack_CoinObject"
 
 [[repo]]
 url = "https://github.com/sualeh-farooq/Pancake_Swap"
+
+[[repo]]
+url = "https://github.com/SubCli/APTips"
+
+[[repo]]
+url = "https://github.com/subhajitroycode/aptos-game"
+
+[[repo]]
+url = "https://github.com/subhamkumarX99/aptosproject"
 
 [[repo]]
 url = "https://github.com/subho1003/404-ERRORZ-HackUEM"
@@ -8481,7 +10138,16 @@ url = "https://github.com/suhailkakar/Livepeer-EVM-Tokengating"
 url = "https://github.com/SujalMishra/aptostest"
 
 [[repo]]
+url = "https://github.com/suleymaneskil/aptogotchi"
+
+[[repo]]
 url = "https://github.com/SumanKhan18/fake-product-identification"
+
+[[repo]]
+url = "https://github.com/sumanSinghh/Aptos-Project"
+
+[[repo]]
+url = "https://github.com/SUMITRANJAN2026/APTOS-PROJECT"
 
 [[repo]]
 url = "https://github.com/Sumrit512/deploydex"
@@ -8542,6 +10208,15 @@ url = "https://github.com/supervlabs/apto_orm"
 
 [[repo]]
 url = "https://github.com/Supratim158/HackUEM_Aptos"
+
+[[repo]]
+url = "https://github.com/Supriadin95/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Suraj3188/aptos"
+
+[[repo]]
+url = "https://github.com/suraj7450x/AptosProject"
 
 [[repo]]
 url = "https://github.com/SurajitM0nd0l/surajit66_aptos"
@@ -8643,10 +10318,28 @@ url = "https://github.com/Tahlil/JamPass"
 url = "https://github.com/Tahlil/todolist-move"
 
 [[repo]]
+url = "https://github.com/TaliaPalacio/aptos-first-steps"
+
+[[repo]]
+url = "https://github.com/TaliaPalacio/RecyExchange"
+
+[[repo]]
+url = "https://github.com/tamago-labs/x-engine"
+
+[[repo]]
+url = "https://github.com/tamago-labs/x-review"
+
+[[repo]]
 url = "https://github.com/Tamhat/waxdev2"
 
 [[repo]]
+url = "https://github.com/tangentveil/remix-risein"
+
+[[repo]]
 url = "https://github.com/tangwanli/swap"
+
+[[repo]]
+url = "https://github.com/Tanishk237/ToDo_aptos2"
 
 [[repo]]
 url = "https://github.com/Tanmay-codeol/Helper_Script_for_heist_game"
@@ -8664,7 +10357,25 @@ url = "https://github.com/TanmayNewatia/RandomPlay"
 url = "https://github.com/taranchik/aptos-blockchain-oracle"
 
 [[repo]]
+url = "https://github.com/Tarike24/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Tarunya0704/aptos01"
+
+[[repo]]
+url = "https://github.com/Taryoh/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Tasdekul/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Tattiers/aptogotchi"
+
+[[repo]]
 url = "https://github.com/tbao2011/scan-test"
+
+[[repo]]
+url = "https://github.com/Tbean360/aptogotchi"
 
 [[repo]]
 url = "https://github.com/tct68/baseswap"
@@ -8691,7 +10402,13 @@ url = "https://github.com/TechieTeee/WeaveML"
 url = "https://github.com/techsmartjsk/RaceToKeys"
 
 [[repo]]
+url = "https://github.com/teenu4/nft-collection"
+
+[[repo]]
 url = "https://github.com/telosnetwork/telos-bridge"
+
+[[repo]]
+url = "https://github.com/terambos/aptogotchi"
 
 [[repo]]
 url = "https://github.com/terryyy-eth/hello_aptos"
@@ -8701,6 +10418,9 @@ url = "https://github.com/terryyyz/hello_aptos"
 
 [[repo]]
 url = "https://github.com/teza16/teza"
+
+[[repo]]
+url = "https://github.com/ThaGeneral406/aptogotchi"
 
 [[repo]]
 url = "https://github.com/ThajebJ/SIMIT-ETHSubmission"
@@ -8742,7 +10462,13 @@ url = "https://github.com/thangdev/demo-aptos"
 url = "https://github.com/thanhdat240220/aptos_txs"
 
 [[repo]]
+url = "https://github.com/thanhhue82/aptogotchi"
+
+[[repo]]
 url = "https://github.com/ThatGuyChike/SwapDApp"
+
+[[repo]]
+url = "https://github.com/thatpeltierguy/aptogotchi"
 
 [[repo]]
 url = "https://github.com/ThatSunny/CrowdMove"
@@ -8751,7 +10477,16 @@ url = "https://github.com/ThatSunny/CrowdMove"
 url = "https://github.com/the-bullish-monkey/aptos-monkey"
 
 [[repo]]
+url = "https://github.com/theayushyadav11/Moverse"
+
+[[repo]]
+url = "https://github.com/Thebest9909/aptogotchi"
+
+[[repo]]
 url = "https://github.com/thecallofluci/callofluci-app"
+
+[[repo]]
+url = "https://github.com/thecaptaingates/aptogotchi"
 
 [[repo]]
 url = "https://github.com/theDeGods/wormhole-bridge"
@@ -8790,6 +10525,9 @@ url = "https://github.com/therealbapplebauce/aptos-core"
 url = "https://github.com/therealbryanho/aptos-hack-singapore-2023-aidharbor-move-contracts"
 
 [[repo]]
+url = "https://github.com/therealbryanho/move-aptos-legends"
+
+[[repo]]
 url = "https://github.com/TheRealSmeddy/aptos-core"
 
 [[repo]]
@@ -8797,6 +10535,9 @@ url = "https://github.com/theSamPadilla/blockchain-infra-decentralization-metric
 
 [[repo]]
 url = "https://github.com/theskeletoncrew/1of1tools"
+
+[[repo]]
+url = "https://github.com/TheXRPerience/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Thomas-AnhDao/move-token"
@@ -8880,10 +10621,19 @@ url = "https://github.com/tingkerbell0305/Aptos-nft-marketplace"
 url = "https://github.com/Tioi7/Aptos"
 
 [[repo]]
+url = "https://github.com/tipstrikpedia/aptogotchi"
+
+[[repo]]
 url = "https://github.com/TitaniumLabs/launchpad-contracts"
 
 [[repo]]
 url = "https://github.com/tkxkd0159/aptos-client"
+
+[[repo]]
+url = "https://github.com/TMS168/aptogotchi"
+
+[[repo]]
+url = "https://github.com/ToFFikS3/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Tokeparty/aptos-wallet-adapter"
@@ -8896,6 +10646,9 @@ url = "https://github.com/TomAbas/Market-Web3"
 
 [[repo]]
 url = "https://github.com/tomdev1409/aptos2"
+
+[[repo]]
+url = "https://github.com/TOMHARD12/aptogotchi"
 
 [[repo]]
 url = "https://github.com/tony001242/yield"
@@ -8925,6 +10678,9 @@ url = "https://github.com/topdev0711/nft-market-place"
 url = "https://github.com/topdeveloper55/aptos-wallet-connection"
 
 [[repo]]
+url = "https://github.com/touson44/aptogotchi"
+
+[[repo]]
 url = "https://github.com/TowneSquare/cred"
 
 [[repo]]
@@ -8935,6 +10691,9 @@ url = "https://github.com/TowneSquare/TowneSpace"
 
 [[repo]]
 url = "https://github.com/TowneSquare/TowneSpace-contract"
+
+[[repo]]
+url = "https://github.com/ToxShadowZ/aptogotchi"
 
 [[repo]]
 url = "https://github.com/TP-Lab/key-generator"
@@ -8967,7 +10726,16 @@ url = "https://github.com/Trellis-fi/Trellis-Token"
 url = "https://github.com/trumhemcut/aux-exchange"
 
 [[repo]]
+url = "https://github.com/truongmuong/aptogotchi"
+
+[[repo]]
+url = "https://github.com/truongmuong86/aptogotchi"
+
+[[repo]]
 url = "https://github.com/trustwallet/aptos-wallet-adapter"
+
+[[repo]]
+url = "https://github.com/TrustWallet/wallet-core"
 
 [[repo]]
 url = "https://github.com/tryptophan36/weaveart"
@@ -8979,6 +10747,9 @@ url = "https://github.com/TSN1X/martian_minter"
 url = "https://github.com/ttiimmothy/overmind-dawn-of-design"
 
 [[repo]]
+url = "https://github.com/tuclickptc/mi_granja"
+
+[[repo]]
 url = "https://github.com/tuencfs/move"
 
 [[repo]]
@@ -8986,6 +10757,9 @@ url = "https://github.com/Tuhaigou/TuhaiAPT"
 
 [[repo]]
 url = "https://github.com/tujhp/aptos-from-many-to-one"
+
+[[repo]]
+url = "https://github.com/tulsi123das/aptos-project"
 
 [[repo]]
 url = "https://github.com/tunandmit/aptos-mkp-contract"
@@ -8998,6 +10772,9 @@ url = "https://github.com/tungleanh92/nft_marketplace_aptos"
 
 [[repo]]
 url = "https://github.com/tungnguyen17/aptos-examples"
+
+[[repo]]
+url = "https://github.com/TurbinePanada/aptogotchi"
 
 [[repo]]
 url = "https://github.com/Turbo-Gus/aptos-simple-escrow"
@@ -9042,6 +10819,9 @@ url = "https://github.com/tyrandel-0/aptos-airdrop-farmer"
 url = "https://github.com/tyrandel-0/AptosQuest4"
 
 [[repo]]
+url = "https://github.com/ubinix-warun/react-vite-norsespark-project"
+
+[[repo]]
 url = "https://github.com/uDayGetIT/wickedkidz"
 
 [[repo]]
@@ -9058,6 +10838,9 @@ url = "https://github.com/ultima-fi/aptos-faucet"
 
 [[repo]]
 url = "https://github.com/ultima-fi/rational_math"
+
+[[repo]]
+url = "https://github.com/Umarabdulhaq/aptogotchi"
 
 [[repo]]
 url = "https://github.com/umi-ag/umi-pool-seoul"
@@ -9099,7 +10882,13 @@ url = "https://github.com/usamazubair/test"
 url = "https://github.com/usdc-snu-aptos/ourchive"
 
 [[repo]]
+url = "https://github.com/usergithub12/aptogotchi"
+
+[[repo]]
 url = "https://github.com/usherlabs/programs"
+
+[[repo]]
+url = "https://github.com/usmanrajaaa/aptos"
 
 [[repo]]
 url = "https://github.com/Uvacoder/starter-nextra-cards-docs-4303"
@@ -9109,6 +10898,9 @@ url = "https://github.com/uzan-uz18/notebook-on-aptos"
 
 [[repo]]
 url = "https://github.com/Uzuverse/uzucoin_aptos"
+
+[[repo]]
+url = "https://github.com/v01dMage/aptogotchi"
 
 [[repo]]
 url = "https://github.com/v1xingyue/aptos-signer"
@@ -9121,6 +10913,9 @@ url = "https://github.com/VadymCodes/Aptos-NFT-Mint-Marketplace"
 
 [[repo]]
 url = "https://github.com/VadymPaliushek/aptos-coin"
+
+[[repo]]
+url = "https://github.com/Vahid8478/aptogotchi"
 
 [[repo]]
 url = "https://github.com/VaibhavArora19/aptos-ecosystem"
@@ -9144,7 +10939,16 @@ url = "https://github.com/Valireum/Aptos-modules"
 url = "https://github.com/vampire-ab/overmind"
 
 [[repo]]
+url = "https://github.com/vandana778/apt"
+
+[[repo]]
 url = "https://github.com/vanishcode/okwallet-aptos-wallet-adapter"
+
+[[repo]]
+url = "https://github.com/VanshKapoor07/catylst-3.0"
+
+[[repo]]
+url = "https://github.com/VAR-META-Tech/Aptos-Cpp-SDK"
 
 [[repo]]
 url = "https://github.com/VarunVerma7/Aptos-Contract-Dev-Flow"
@@ -9154,6 +10958,12 @@ url = "https://github.com/VarunVerma7/aptos-local-testing"
 
 [[repo]]
 url = "https://github.com/vasyan/pancake-swap"
+
+[[repo]]
+url = "https://github.com/vatsaltibrewal/ReportCrimeOnAptos"
+
+[[repo]]
+url = "https://github.com/vbhvml/online-voting-sys"
 
 [[repo]]
 url = "https://github.com/vderan/furiofinance-dapp"
@@ -9186,6 +10996,9 @@ url = "https://github.com/venusgalstar/AptosMAU"
 url = "https://github.com/veraaaaaLiu/Solidity-EVM-Dev-Batch-2-HW"
 
 [[repo]]
+url = "https://github.com/vergilapt/AptosPay"
+
+[[repo]]
 url = "https://github.com/verichains/revela"
 
 [[repo]]
@@ -9195,13 +11008,22 @@ url = "https://github.com/versedpro/martiniswap-frontend"
 url = "https://github.com/vgao1996/aptos-core"
 
 [[repo]]
+url = "https://github.com/vibhuti171/aptos-digital-will-main"
+
+[[repo]]
 url = "https://github.com/Vicholas14/git-clone-https-github.com-aptos-labs-aptos-core"
+
+[[repo]]
+url = "https://github.com/vickeysingh0/1st-project"
 
 [[repo]]
 url = "https://github.com/vicradon/pay-me-a-river-remastered"
 
 [[repo]]
 url = "https://github.com/victormutuku/overmind"
+
+[[repo]]
+url = "https://github.com/victoronyema1/aptogotchi"
 
 [[repo]]
 url = "https://github.com/vietanhvo/First_aptos_dapp"
@@ -9219,10 +11041,16 @@ url = "https://github.com/viettran0801/gamble_aptos"
 url = "https://github.com/vijay-kesanakurthi/Streamed-token-pay"
 
 [[repo]]
+url = "https://github.com/VijaySamant4368/green-points"
+
+[[repo]]
 url = "https://github.com/VijaySamrath/first_Dapp_Aptos_Move"
 
 [[repo]]
 url = "https://github.com/vinciaja/aptos-core"
+
+[[repo]]
+url = "https://github.com/Vinit-4689/Vinit"
 
 [[repo]]
 url = "https://github.com/violethair/mkbsex_test"
@@ -9232,6 +11060,9 @@ url = "https://github.com/visathippo/play-aptos"
 
 [[repo]]
 url = "https://github.com/vishal0298/Erium_ExChange"
+
+[[repo]]
+url = "https://github.com/vishal201u/APTOS-project"
 
 [[repo]]
 url = "https://github.com/VishalPachpor/E2E_Dapp_Aptos"
@@ -9244,6 +11075,9 @@ url = "https://github.com/Visheshgpt/Hadesprotocol"
 
 [[repo]]
 url = "https://github.com/VISHNU18629/lets-do-it-46-HackUEM"
+
+[[repo]]
+url = "https://github.com/vishu32801/Aptos-Project"
 
 [[repo]]
 url = "https://github.com/vivekascoder/aptos-core"
@@ -9288,6 +11122,9 @@ url = "https://github.com/VladKharch/aptos-core-forLearning"
 url = "https://github.com/vldmkr/aptos-staking-amount"
 
 [[repo]]
+url = "https://github.com/vlpatel/aptogotchi"
+
+[[repo]]
 url = "https://github.com/vmellini0/move-launchpad"
 
 [[repo]]
@@ -9300,6 +11137,12 @@ url = "https://github.com/vokracko/stocra-infrastructure"
 url = "https://github.com/VolanDeVovan/aptos-core"
 
 [[repo]]
+url = "https://github.com/Voldemort271/aptos-hackathon"
+
+[[repo]]
+url = "https://github.com/Voldemort271/auction"
+
+[[repo]]
 url = "https://github.com/Vptwo/aptos-core"
 
 [[repo]]
@@ -9307,6 +11150,9 @@ url = "https://github.com/Vsquarekgp/Duel_Card_Game_MOVE"
 
 [[repo]]
 url = "https://github.com/vuyen/All_Node"
+
+[[repo]]
+url = "https://github.com/w3bb387/aptogotchi"
 
 [[repo]]
 url = "https://github.com/wafeishushu/aptos-exercise"
@@ -9319,6 +11165,9 @@ url = "https://github.com/wagmifund/wagmifund"
 
 [[repo]]
 url = "https://github.com/wahello/aptos-core"
+
+[[repo]]
+url = "https://github.com/Waiganjo02/aptogotchi"
 
 [[repo]]
 url = "https://github.com/wandergroup/wanderCoin"
@@ -9414,6 +11263,9 @@ url = "https://github.com/weeaa/web3"
 url = "https://github.com/welldonestudio/welldonestudio.github.io"
 
 [[repo]]
+url = "https://github.com/WenHao1223/nickguhr"
+
+[[repo]]
 url = "https://github.com/werewolfandwitch/aptos-werewolfandwitch"
 
 [[repo]]
@@ -9421,6 +11273,9 @@ url = "https://github.com/werewolfandwitch/aptos_werewolfandwitch"
 
 [[repo]]
 url = "https://github.com/westonnelson/ui-ideas"
+
+[[repo]]
+url = "https://github.com/weyuma/aptogotchi"
 
 [[repo]]
 url = "https://github.com/WGB5445/aptos-move-npm"
@@ -9439,6 +11294,12 @@ url = "https://github.com/whanarchyven/aptos-punk"
 
 [[repo]]
 url = "https://github.com/wholespace214/aptos-nft-marketplace"
+
+[[repo]]
+url = "https://github.com/wilda0533/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Wilksholy/aptogotchi"
 
 [[repo]]
 url = "https://github.com/WilliamFly/pay-me-a-river-overmind"
@@ -9609,6 +11470,9 @@ url = "https://github.com/x24870/urn"
 url = "https://github.com/Xa1zer/aptos-core"
 
 [[repo]]
+url = "https://github.com/XavierOP877/AptFund"
+
+[[repo]]
 url = "https://github.com/xbtmatt/dapp-examples"
 
 [[repo]]
@@ -9618,6 +11482,9 @@ url = "https://github.com/xbtmatt/fee-payer"
 url = "https://github.com/xbtmatt/mojo-monsters-contract"
 
 [[repo]]
+url = "https://github.com/xchandan12/aptosproject"
+
+[[repo]]
 url = "https://github.com/xiang-xx/liquidswap-pool-example"
 
 [[repo]]
@@ -9625,6 +11492,9 @@ url = "https://github.com/xircusweb3/xw3-ton-contracts"
 
 [[repo]]
 url = "https://github.com/xiyu1984/one-nft-one-funny"
+
+[[repo]]
+url = "https://github.com/XK-Society/SeaFloorFinance-Contract-Aptos"
 
 [[repo]]
 url = "https://github.com/XLabs/wallet-aggregator-sdk"
@@ -9667,6 +11537,9 @@ url = "https://github.com/Yahohohohohoho/agigit"
 
 [[repo]]
 url = "https://github.com/yamen/aptos-liquidswap-gateway"
+
+[[repo]]
+url = "https://github.com/YamiX83/aptogotchi"
 
 [[repo]]
 url = "https://github.com/yangliua8/wolfgame-interface-master"
@@ -9714,7 +11587,16 @@ url = "https://github.com/YJZyjz185672/aptos-core"
 url = "https://github.com/ykchong45/lens-app"
 
 [[repo]]
+url = "https://github.com/ykp01/aptogotchi"
+
+[[repo]]
+url = "https://github.com/Yode01/aptogotchi"
+
+[[repo]]
 url = "https://github.com/yogeshsince2023/shunya-aptos-project"
+
+[[repo]]
+url = "https://github.com/yogitasahu91/blockchain_yogit"
 
 [[repo]]
 url = "https://github.com/yonnie-park/DID-You-Eat"
@@ -9762,6 +11644,9 @@ url = "https://github.com/yubing744/liquidswap"
 url = "https://github.com/yubing744/movemate"
 
 [[repo]]
+url = "https://github.com/yue1823/diffusion"
+
+[[repo]]
 url = "https://github.com/yuhuajing/moveLearn"
 
 [[repo]]
@@ -9789,6 +11674,9 @@ url = "https://github.com/YusongWang/aptos-utils"
 url = "https://github.com/yutkach/aptos-core"
 
 [[repo]]
+url = "https://github.com/yuvrajsingh96/apt"
+
+[[repo]]
 url = "https://github.com/yvalois/DigitalSwap-Staking"
 
 [[repo]]
@@ -9813,6 +11701,9 @@ url = "https://github.com/zayn-kahn/Learning-Aptos"
 url = "https://github.com/zays21/zays-water-95-HackUEM"
 
 [[repo]]
+url = "https://github.com/zbagdzevicius/tokentails"
+
+[[repo]]
 url = "https://github.com/ZeeFi/zee-oracle"
 
 [[repo]]
@@ -9826,6 +11717,9 @@ url = "https://github.com/zeeis-beta/aptos_test"
 
 [[repo]]
 url = "https://github.com/zeeis/smart-contract"
+
+[[repo]]
+url = "https://github.com/Zeeshan628/Aptosproject"
 
 [[repo]]
 url = "https://github.com/zeinec/dr.rain"
@@ -9861,10 +11755,16 @@ url = "https://github.com/zengxinhai/pyth-crosschain"
 url = "https://github.com/zengxinhai/Web3-dApp-Camp"
 
 [[repo]]
+url = "https://github.com/Zero-83/aptogotchi"
+
+[[repo]]
 url = "https://github.com/zero-terryyy/hello_aptos"
 
 [[repo]]
 url = "https://github.com/zeroknowledgeTeam/dittos"
+
+[[repo]]
+url = "https://github.com/zfamsz/aptogotchi"
 
 [[repo]]
 url = "https://github.com/zhchiEarth/aptos-demos"
@@ -9873,7 +11773,13 @@ url = "https://github.com/zhchiEarth/aptos-demos"
 url = "https://github.com/zhenfeng-zhu/MoveDID"
 
 [[repo]]
+url = "https://github.com/zhikin19/my-aptos-dapp"
+
+[[repo]]
 url = "https://github.com/zhiqiangxu/aptos-core"
+
+[[repo]]
+url = "https://github.com/Zhixuan0318/Aptos-VoiceLab"
 
 [[repo]]
 url = "https://github.com/Zhixuan0318/Emissary-Aptos"
@@ -9915,6 +11821,9 @@ url = "https://github.com/ziptalk/QVE_protocol"
 url = "https://github.com/ziptalk/Yours_Grizzlython_Solana"
 
 [[repo]]
+url = "https://github.com/Ziptos-Inc/Non-Tech-Artefacts"
+
+[[repo]]
 url = "https://github.com/zitorez/aptos-move-testing"
 
 [[repo]]
@@ -9934,6 +11843,15 @@ url = "https://github.com/ZodiacSwap/Zodiacswap-Frontend"
 
 [[repo]]
 url = "https://github.com/zolegus/aptos-deploy-token"
+
+[[repo]]
+url = "https://github.com/Zona-Tres/aptos-base-frontend"
+
+[[repo]]
+url = "https://github.com/Zona-Tres/aptos-first-steps"
+
+[[repo]]
+url = "https://github.com/Zona-Tres/meme-museum-aptos"
 
 [[repo]]
 url = "https://github.com/ztNozdormu/move-contracts"
